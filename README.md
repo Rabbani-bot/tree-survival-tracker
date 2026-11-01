@@ -31,7 +31,7 @@ python3 src/survival.py
 Author: Mohammad Rabbani – Sustainability Data Analyst & Research Consultant
 
 ## Links
-- Kaggle notebook: https://www.kaggle.com/rabbani0123 (runnable copy of `notebook.ipynb`)
+- Kaggle notebook (runs end-to-end on Kaggle): https://www.kaggle.com/code/rabbani0123/tree-plantation-survival-analysis-kaplan-meier
 - Cite: see `CITATION.cff`
 - Author: Mohammad Rabbani | Sustainability Data Analyst & Research Assistant
 
