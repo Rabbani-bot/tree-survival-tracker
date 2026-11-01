@@ -1,0 +1,29 @@
+{
+  "trees": 2400,
+  "deaths_observed": 653,
+  "censored": 1747,
+  "survival_at_24_months_pct": {
+    "Dalbergia sissoo (shisham)": 61.6,
+    "Eucalyptus camaldulensis": 82.6,
+    "Morus alba (mulberry)": 68.3,
+    "Pinus roxburghii (chir pine)": 75.6
+  },
+  "logrank_species": {
+    "chi2": 69.5,
+    "p_value": 5.42120703597407e-15
+  },
+  "logrank_slope": {
+    "chi2": 14.0,
+    "p_value": 0.0001847892613519866
+  },
+  "survival_24m_by_site_pct": {
+    "Site 1": 68.2,
+    "Site 2": 71.3,
+    "Site 3": 74.8,
+    "Site 4": 72.6,
+    "Site 5": 74.0,
+    "Site 6": 74.3,
+    "Site 7": 71.8,
+    "Site 8": 68.9
+  }
+}

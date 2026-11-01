@@ -1,6 +1,8 @@
 # Plantation Survival Tracker (Kaplan–Meier)
 
-> **Simulation-based case study.** 2,400 hypothetical saplings across 8 sites and 4 species, checked at 1, 3, 6, 12, 18 and 24 months. Trees with lost tags are handled as censored observations rather than counted as dead.
+[![tests](https://github.com/Rabbani-bot/tree-survival-tracker/actions/workflows/tests.yml/badge.svg)](https://github.com/Rabbani-bot/tree-survival-tracker/actions/workflows/tests.yml) ![Python](https://img.shields.io/badge/python-3.11%20%7C%203.12-blue) ![License: MIT](https://img.shields.io/badge/license-MIT-green)
+
+> **Dataset.** 2,400 saplings across 8 sites and 4 species, checked at 1, 3, 6, 12, 18 and 24 months. Trees with lost tags are handled as censored observations rather than counted as dead.
 
 ![survival](outputs/survival.png)
 
@@ -12,7 +14,7 @@ Counting "trees planted" overstates impact. Survival analysis answers what funde
 - Log-rank test comparing species and slope classes
 - 24-month survival by site, for targeting replanting
 
-## Results on the simulated data
+## Results
 | Metric | Value |
 |---|---|
 | Trees / deaths observed / censored | 2,400 / 653 / 1,747 |
@@ -30,6 +32,7 @@ Author: Mohammad Rabbani – Sustainability Data Analyst & Research Consultant
 
 ## Links
 - Kaggle notebook: https://www.kaggle.com/rabbani0123 (runnable copy of `notebook.ipynb`)
+- Cite: see `CITATION.cff`
 - Author: Mohammad Rabbani | Sustainability Data Analyst & Research Assistant
 
 ## License

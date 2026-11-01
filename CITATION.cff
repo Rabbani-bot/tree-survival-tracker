@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Plantation Survival Tracker (Kaplan–Meier)"
+authors:
+  - family-names: Rabbani
+    given-names: Mohammad
+version: 1.0.0
+date-released: 2026-11-01
+license: MIT
+repository-code: "https://github.com/Rabbani-bot/tree-survival-tracker"
+keywords: [survival-analysis, kaplan-meier, log-rank-test, reforestation, forestry, ecology, python, statistics]

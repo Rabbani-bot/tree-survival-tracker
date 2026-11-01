@@ -1,0 +1,2401 @@
+tree_id,site,species,slope,time_months,died
+1,Site 3,Eucalyptus camaldulensis,gentle,24,0
+2,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+3,Site 7,Pinus roxburghii (chir pine),steep,24,0
+4,Site 2,Pinus roxburghii (chir pine),steep,24,0
+5,Site 1,Pinus roxburghii (chir pine),steep,24,0
+6,Site 1,Eucalyptus camaldulensis,gentle,24,0
+7,Site 6,Eucalyptus camaldulensis,steep,24,0
+8,Site 6,Morus alba (mulberry),gentle,24,0
+9,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+10,Site 8,Pinus roxburghii (chir pine),gentle,12,1
+11,Site 7,Dalbergia sissoo (shisham),gentle,24,0
+12,Site 2,Dalbergia sissoo (shisham),gentle,24,0
+13,Site 2,Morus alba (mulberry),steep,24,0
+14,Site 7,Dalbergia sissoo (shisham),gentle,24,1
+15,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+16,Site 7,Pinus roxburghii (chir pine),steep,24,0
+17,Site 6,Morus alba (mulberry),gentle,24,0
+18,Site 2,Morus alba (mulberry),steep,3,1
+19,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+20,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+21,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+22,Site 5,Dalbergia sissoo (shisham),gentle,6,1
+23,Site 8,Eucalyptus camaldulensis,steep,24,0
+24,Site 1,Morus alba (mulberry),gentle,24,0
+25,Site 2,Dalbergia sissoo (shisham),gentle,24,0
+26,Site 8,Dalbergia sissoo (shisham),steep,24,0
+27,Site 8,Morus alba (mulberry),steep,12,1
+28,Site 2,Morus alba (mulberry),gentle,24,0
+29,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+30,Site 2,Morus alba (mulberry),steep,6,1
+31,Site 8,Eucalyptus camaldulensis,gentle,24,0
+32,Site 6,Eucalyptus camaldulensis,gentle,24,0
+33,Site 7,Eucalyptus camaldulensis,steep,24,0
+34,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+35,Site 1,Dalbergia sissoo (shisham),steep,12,1
+36,Site 7,Morus alba (mulberry),steep,24,0
+37,Site 3,Morus alba (mulberry),steep,24,0
+38,Site 6,Morus alba (mulberry),gentle,24,0
+39,Site 4,Eucalyptus camaldulensis,gentle,24,0
+40,Site 1,Dalbergia sissoo (shisham),gentle,6,1
+41,Site 5,Eucalyptus camaldulensis,steep,12,1
+42,Site 4,Pinus roxburghii (chir pine),steep,24,0
+43,Site 6,Pinus roxburghii (chir pine),steep,24,0
+44,Site 8,Eucalyptus camaldulensis,steep,12,1
+45,Site 6,Eucalyptus camaldulensis,steep,6,0
+46,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+47,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+48,Site 2,Dalbergia sissoo (shisham),steep,24,0
+49,Site 8,Pinus roxburghii (chir pine),steep,24,0
+50,Site 8,Eucalyptus camaldulensis,steep,24,0
+51,Site 7,Morus alba (mulberry),steep,6,0
+52,Site 1,Morus alba (mulberry),gentle,6,1
+53,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+54,Site 4,Dalbergia sissoo (shisham),steep,18,1
+55,Site 7,Pinus roxburghii (chir pine),gentle,18,1
+56,Site 8,Eucalyptus camaldulensis,gentle,24,0
+57,Site 6,Dalbergia sissoo (shisham),gentle,24,1
+58,Site 7,Pinus roxburghii (chir pine),gentle,24,1
+59,Site 8,Dalbergia sissoo (shisham),steep,12,1
+60,Site 2,Morus alba (mulberry),steep,24,0
+61,Site 8,Morus alba (mulberry),gentle,24,0
+62,Site 1,Dalbergia sissoo (shisham),gentle,3,1
+63,Site 6,Dalbergia sissoo (shisham),gentle,24,1
+64,Site 4,Pinus roxburghii (chir pine),steep,24,0
+65,Site 1,Morus alba (mulberry),gentle,24,0
+66,Site 6,Morus alba (mulberry),steep,12,1
+67,Site 7,Morus alba (mulberry),gentle,24,0
+68,Site 7,Eucalyptus camaldulensis,steep,24,0
+69,Site 7,Eucalyptus camaldulensis,gentle,24,0
+70,Site 2,Pinus roxburghii (chir pine),steep,24,0
+71,Site 3,Morus alba (mulberry),steep,24,0
+72,Site 4,Morus alba (mulberry),gentle,24,0
+73,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+74,Site 4,Dalbergia sissoo (shisham),gentle,6,1
+75,Site 5,Dalbergia sissoo (shisham),gentle,24,1
+76,Site 3,Morus alba (mulberry),steep,24,0
+77,Site 7,Dalbergia sissoo (shisham),gentle,24,0
+78,Site 6,Morus alba (mulberry),gentle,24,1
+79,Site 6,Morus alba (mulberry),gentle,24,0
+80,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+81,Site 8,Dalbergia sissoo (shisham),gentle,24,1
+82,Site 4,Eucalyptus camaldulensis,steep,24,0
+83,Site 4,Eucalyptus camaldulensis,steep,24,0
+84,Site 7,Morus alba (mulberry),gentle,12,1
+85,Site 5,Pinus roxburghii (chir pine),steep,24,0
+86,Site 3,Morus alba (mulberry),gentle,24,0
+87,Site 2,Pinus roxburghii (chir pine),gentle,12,1
+88,Site 5,Eucalyptus camaldulensis,steep,24,0
+89,Site 3,Eucalyptus camaldulensis,steep,24,0
+90,Site 7,Dalbergia sissoo (shisham),steep,24,0
+91,Site 6,Eucalyptus camaldulensis,steep,24,0
+92,Site 3,Eucalyptus camaldulensis,steep,24,0
+93,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+94,Site 1,Eucalyptus camaldulensis,gentle,12,1
+95,Site 1,Dalbergia sissoo (shisham),gentle,24,0
+96,Site 1,Pinus roxburghii (chir pine),steep,24,0
+97,Site 1,Morus alba (mulberry),gentle,24,0
+98,Site 7,Eucalyptus camaldulensis,gentle,24,0
+99,Site 6,Morus alba (mulberry),steep,12,0
+100,Site 7,Dalbergia sissoo (shisham),gentle,24,0
+101,Site 7,Eucalyptus camaldulensis,gentle,24,0
+102,Site 6,Dalbergia sissoo (shisham),steep,12,1
+103,Site 2,Dalbergia sissoo (shisham),gentle,6,1
+104,Site 1,Pinus roxburghii (chir pine),gentle,18,0
+105,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+106,Site 3,Morus alba (mulberry),gentle,18,1
+107,Site 4,Eucalyptus camaldulensis,steep,24,0
+108,Site 8,Dalbergia sissoo (shisham),steep,24,0
+109,Site 8,Morus alba (mulberry),gentle,1,1
+110,Site 5,Eucalyptus camaldulensis,steep,24,0
+111,Site 1,Pinus roxburghii (chir pine),gentle,12,1
+112,Site 4,Dalbergia sissoo (shisham),gentle,12,1
+113,Site 8,Morus alba (mulberry),gentle,24,0
+114,Site 8,Morus alba (mulberry),steep,24,0
+115,Site 4,Dalbergia sissoo (shisham),gentle,24,0
+116,Site 8,Dalbergia sissoo (shisham),steep,24,0
+117,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+118,Site 3,Morus alba (mulberry),gentle,24,0
+119,Site 5,Eucalyptus camaldulensis,steep,24,0
+120,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+121,Site 1,Eucalyptus camaldulensis,gentle,24,0
+122,Site 7,Pinus roxburghii (chir pine),steep,24,0
+123,Site 3,Pinus roxburghii (chir pine),steep,6,0
+124,Site 7,Morus alba (mulberry),steep,24,1
+125,Site 3,Pinus roxburghii (chir pine),steep,24,0
+126,Site 8,Eucalyptus camaldulensis,gentle,24,0
+127,Site 1,Dalbergia sissoo (shisham),gentle,3,0
+128,Site 7,Morus alba (mulberry),steep,18,1
+129,Site 1,Eucalyptus camaldulensis,steep,24,0
+130,Site 1,Eucalyptus camaldulensis,steep,24,0
+131,Site 1,Dalbergia sissoo (shisham),gentle,24,0
+132,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+133,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+134,Site 2,Eucalyptus camaldulensis,gentle,24,0
+135,Site 4,Morus alba (mulberry),steep,18,1
+136,Site 6,Pinus roxburghii (chir pine),steep,24,0
+137,Site 7,Eucalyptus camaldulensis,gentle,24,0
+138,Site 5,Eucalyptus camaldulensis,gentle,24,0
+139,Site 3,Eucalyptus camaldulensis,steep,24,0
+140,Site 8,Morus alba (mulberry),steep,24,0
+141,Site 1,Eucalyptus camaldulensis,gentle,24,0
+142,Site 2,Morus alba (mulberry),gentle,24,0
+143,Site 4,Morus alba (mulberry),gentle,24,0
+144,Site 2,Eucalyptus camaldulensis,gentle,24,0
+145,Site 7,Morus alba (mulberry),gentle,18,1
+146,Site 1,Eucalyptus camaldulensis,gentle,24,0
+147,Site 2,Dalbergia sissoo (shisham),gentle,24,0
+148,Site 2,Eucalyptus camaldulensis,gentle,24,0
+149,Site 4,Eucalyptus camaldulensis,gentle,24,0
+150,Site 8,Pinus roxburghii (chir pine),gentle,24,0
+151,Site 5,Morus alba (mulberry),steep,24,0
+152,Site 5,Dalbergia sissoo (shisham),steep,24,0
+153,Site 3,Pinus roxburghii (chir pine),steep,24,0
+154,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+155,Site 5,Dalbergia sissoo (shisham),steep,18,1
+156,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+157,Site 8,Morus alba (mulberry),gentle,24,0
+158,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+159,Site 3,Morus alba (mulberry),gentle,24,0
+160,Site 3,Eucalyptus camaldulensis,gentle,6,1
+161,Site 4,Dalbergia sissoo (shisham),steep,18,1
+162,Site 1,Pinus roxburghii (chir pine),gentle,24,0
+163,Site 1,Pinus roxburghii (chir pine),steep,18,1
+164,Site 6,Dalbergia sissoo (shisham),gentle,24,0
+165,Site 3,Dalbergia sissoo (shisham),steep,24,0
+166,Site 5,Dalbergia sissoo (shisham),steep,24,1
+167,Site 7,Dalbergia sissoo (shisham),steep,12,1
+168,Site 1,Eucalyptus camaldulensis,gentle,12,1
+169,Site 1,Morus alba (mulberry),steep,12,1
+170,Site 5,Eucalyptus camaldulensis,steep,24,0
+171,Site 7,Eucalyptus camaldulensis,gentle,24,1
+172,Site 2,Morus alba (mulberry),gentle,18,1
+173,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+174,Site 4,Pinus roxburghii (chir pine),steep,24,0
+175,Site 3,Morus alba (mulberry),steep,24,0
+176,Site 6,Morus alba (mulberry),gentle,24,0
+177,Site 1,Eucalyptus camaldulensis,gentle,24,0
+178,Site 5,Morus alba (mulberry),steep,24,0
+179,Site 2,Eucalyptus camaldulensis,gentle,24,0
+180,Site 3,Pinus roxburghii (chir pine),steep,24,0
+181,Site 2,Dalbergia sissoo (shisham),steep,12,1
+182,Site 7,Morus alba (mulberry),steep,24,0
+183,Site 3,Morus alba (mulberry),gentle,24,0
+184,Site 3,Dalbergia sissoo (shisham),steep,24,0
+185,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+186,Site 6,Morus alba (mulberry),steep,18,1
+187,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+188,Site 3,Morus alba (mulberry),gentle,24,0
+189,Site 8,Eucalyptus camaldulensis,gentle,24,0
+190,Site 6,Morus alba (mulberry),gentle,24,0
+191,Site 1,Pinus roxburghii (chir pine),steep,24,0
+192,Site 5,Morus alba (mulberry),steep,24,0
+193,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+194,Site 5,Morus alba (mulberry),gentle,18,1
+195,Site 8,Morus alba (mulberry),steep,18,1
+196,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+197,Site 6,Pinus roxburghii (chir pine),steep,24,0
+198,Site 7,Dalbergia sissoo (shisham),steep,24,0
+199,Site 6,Morus alba (mulberry),steep,24,0
+200,Site 8,Pinus roxburghii (chir pine),steep,24,0
+201,Site 8,Eucalyptus camaldulensis,gentle,24,0
+202,Site 2,Dalbergia sissoo (shisham),gentle,3,1
+203,Site 6,Eucalyptus camaldulensis,gentle,1,1
+204,Site 8,Morus alba (mulberry),steep,24,1
+205,Site 7,Morus alba (mulberry),gentle,24,0
+206,Site 6,Eucalyptus camaldulensis,steep,1,1
+207,Site 3,Dalbergia sissoo (shisham),gentle,12,1
+208,Site 2,Dalbergia sissoo (shisham),steep,24,0
+209,Site 2,Morus alba (mulberry),steep,3,1
+210,Site 1,Pinus roxburghii (chir pine),gentle,24,0
+211,Site 3,Morus alba (mulberry),gentle,1,0
+212,Site 2,Morus alba (mulberry),gentle,24,0
+213,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+214,Site 4,Pinus roxburghii (chir pine),steep,24,0
+215,Site 2,Pinus roxburghii (chir pine),steep,24,0
+216,Site 6,Morus alba (mulberry),steep,24,0
+217,Site 8,Morus alba (mulberry),steep,24,0
+218,Site 8,Dalbergia sissoo (shisham),gentle,1,1
+219,Site 1,Eucalyptus camaldulensis,steep,24,0
+220,Site 7,Dalbergia sissoo (shisham),gentle,3,0
+221,Site 5,Dalbergia sissoo (shisham),gentle,24,1
+222,Site 8,Eucalyptus camaldulensis,gentle,12,0
+223,Site 6,Pinus roxburghii (chir pine),steep,24,0
+224,Site 7,Dalbergia sissoo (shisham),gentle,24,1
+225,Site 2,Pinus roxburghii (chir pine),steep,24,0
+226,Site 7,Dalbergia sissoo (shisham),gentle,24,0
+227,Site 4,Morus alba (mulberry),gentle,3,1
+228,Site 8,Dalbergia sissoo (shisham),steep,6,1
+229,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+230,Site 6,Dalbergia sissoo (shisham),gentle,18,1
+231,Site 2,Pinus roxburghii (chir pine),gentle,18,1
+232,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+233,Site 8,Dalbergia sissoo (shisham),steep,24,0
+234,Site 5,Morus alba (mulberry),gentle,24,0
+235,Site 7,Pinus roxburghii (chir pine),steep,24,0
+236,Site 4,Eucalyptus camaldulensis,gentle,1,0
+237,Site 4,Eucalyptus camaldulensis,gentle,24,0
+238,Site 6,Morus alba (mulberry),gentle,24,1
+239,Site 2,Morus alba (mulberry),steep,18,1
+240,Site 3,Morus alba (mulberry),gentle,24,0
+241,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+242,Site 8,Eucalyptus camaldulensis,gentle,24,0
+243,Site 1,Pinus roxburghii (chir pine),steep,24,1
+244,Site 3,Eucalyptus camaldulensis,gentle,18,0
+245,Site 7,Eucalyptus camaldulensis,steep,24,0
+246,Site 4,Morus alba (mulberry),gentle,24,0
+247,Site 1,Pinus roxburghii (chir pine),steep,18,1
+248,Site 2,Eucalyptus camaldulensis,gentle,24,1
+249,Site 8,Eucalyptus camaldulensis,gentle,24,0
+250,Site 8,Eucalyptus camaldulensis,gentle,24,0
+251,Site 4,Morus alba (mulberry),gentle,24,0
+252,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+253,Site 2,Morus alba (mulberry),steep,24,0
+254,Site 8,Dalbergia sissoo (shisham),steep,24,0
+255,Site 1,Eucalyptus camaldulensis,steep,24,0
+256,Site 2,Dalbergia sissoo (shisham),gentle,24,1
+257,Site 8,Dalbergia sissoo (shisham),steep,24,0
+258,Site 3,Dalbergia sissoo (shisham),steep,24,0
+259,Site 7,Dalbergia sissoo (shisham),gentle,24,0
+260,Site 8,Morus alba (mulberry),gentle,24,0
+261,Site 1,Dalbergia sissoo (shisham),gentle,1,1
+262,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+263,Site 8,Morus alba (mulberry),gentle,24,0
+264,Site 1,Morus alba (mulberry),gentle,24,0
+265,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+266,Site 4,Morus alba (mulberry),gentle,24,0
+267,Site 2,Morus alba (mulberry),gentle,24,1
+268,Site 1,Pinus roxburghii (chir pine),gentle,18,0
+269,Site 7,Morus alba (mulberry),gentle,24,0
+270,Site 7,Dalbergia sissoo (shisham),steep,24,0
+271,Site 3,Eucalyptus camaldulensis,steep,24,0
+272,Site 7,Dalbergia sissoo (shisham),steep,24,0
+273,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+274,Site 8,Morus alba (mulberry),gentle,3,1
+275,Site 3,Eucalyptus camaldulensis,steep,24,0
+276,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+277,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+278,Site 4,Pinus roxburghii (chir pine),steep,24,0
+279,Site 5,Dalbergia sissoo (shisham),gentle,12,1
+280,Site 4,Morus alba (mulberry),steep,24,0
+281,Site 8,Morus alba (mulberry),gentle,12,1
+282,Site 6,Dalbergia sissoo (shisham),gentle,12,1
+283,Site 1,Eucalyptus camaldulensis,gentle,24,0
+284,Site 4,Morus alba (mulberry),steep,24,0
+285,Site 8,Pinus roxburghii (chir pine),gentle,24,0
+286,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+287,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+288,Site 4,Pinus roxburghii (chir pine),steep,24,0
+289,Site 8,Eucalyptus camaldulensis,steep,24,0
+290,Site 4,Eucalyptus camaldulensis,gentle,24,0
+291,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+292,Site 8,Pinus roxburghii (chir pine),steep,24,0
+293,Site 4,Eucalyptus camaldulensis,steep,24,0
+294,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+295,Site 8,Pinus roxburghii (chir pine),steep,24,1
+296,Site 3,Dalbergia sissoo (shisham),gentle,12,1
+297,Site 4,Dalbergia sissoo (shisham),steep,6,0
+298,Site 1,Dalbergia sissoo (shisham),gentle,3,1
+299,Site 4,Dalbergia sissoo (shisham),gentle,24,0
+300,Site 8,Pinus roxburghii (chir pine),steep,24,0
+301,Site 3,Morus alba (mulberry),gentle,24,0
+302,Site 5,Morus alba (mulberry),gentle,24,0
+303,Site 8,Morus alba (mulberry),gentle,3,1
+304,Site 4,Eucalyptus camaldulensis,gentle,24,0
+305,Site 8,Eucalyptus camaldulensis,steep,24,0
+306,Site 8,Pinus roxburghii (chir pine),steep,24,0
+307,Site 2,Eucalyptus camaldulensis,gentle,24,0
+308,Site 8,Dalbergia sissoo (shisham),steep,18,1
+309,Site 5,Eucalyptus camaldulensis,gentle,24,0
+310,Site 2,Morus alba (mulberry),gentle,24,0
+311,Site 8,Pinus roxburghii (chir pine),steep,24,0
+312,Site 2,Eucalyptus camaldulensis,steep,24,0
+313,Site 5,Eucalyptus camaldulensis,steep,18,1
+314,Site 8,Eucalyptus camaldulensis,gentle,24,0
+315,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+316,Site 8,Pinus roxburghii (chir pine),steep,24,0
+317,Site 8,Morus alba (mulberry),steep,24,0
+318,Site 5,Morus alba (mulberry),steep,24,0
+319,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+320,Site 6,Eucalyptus camaldulensis,gentle,24,0
+321,Site 3,Pinus roxburghii (chir pine),gentle,1,1
+322,Site 1,Pinus roxburghii (chir pine),steep,18,1
+323,Site 7,Eucalyptus camaldulensis,gentle,24,0
+324,Site 4,Morus alba (mulberry),gentle,24,0
+325,Site 7,Pinus roxburghii (chir pine),steep,12,1
+326,Site 1,Pinus roxburghii (chir pine),steep,18,0
+327,Site 1,Eucalyptus camaldulensis,gentle,24,0
+328,Site 2,Eucalyptus camaldulensis,steep,24,0
+329,Site 3,Eucalyptus camaldulensis,gentle,24,0
+330,Site 1,Eucalyptus camaldulensis,gentle,24,0
+331,Site 7,Dalbergia sissoo (shisham),gentle,18,1
+332,Site 5,Morus alba (mulberry),gentle,24,0
+333,Site 1,Dalbergia sissoo (shisham),gentle,1,0
+334,Site 5,Pinus roxburghii (chir pine),steep,24,0
+335,Site 7,Pinus roxburghii (chir pine),steep,3,0
+336,Site 4,Pinus roxburghii (chir pine),steep,24,0
+337,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+338,Site 6,Dalbergia sissoo (shisham),gentle,24,0
+339,Site 2,Eucalyptus camaldulensis,gentle,24,0
+340,Site 1,Eucalyptus camaldulensis,gentle,24,0
+341,Site 1,Morus alba (mulberry),steep,24,0
+342,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+343,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+344,Site 2,Morus alba (mulberry),steep,24,0
+345,Site 6,Morus alba (mulberry),gentle,24,0
+346,Site 5,Dalbergia sissoo (shisham),gentle,1,1
+347,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+348,Site 7,Dalbergia sissoo (shisham),steep,3,1
+349,Site 6,Eucalyptus camaldulensis,gentle,24,0
+350,Site 2,Morus alba (mulberry),gentle,24,0
+351,Site 7,Morus alba (mulberry),gentle,24,0
+352,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+353,Site 1,Eucalyptus camaldulensis,gentle,24,0
+354,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+355,Site 2,Dalbergia sissoo (shisham),gentle,24,1
+356,Site 2,Eucalyptus camaldulensis,gentle,24,0
+357,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+358,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+359,Site 5,Pinus roxburghii (chir pine),steep,3,1
+360,Site 7,Eucalyptus camaldulensis,gentle,24,1
+361,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+362,Site 1,Morus alba (mulberry),gentle,24,0
+363,Site 2,Morus alba (mulberry),gentle,12,1
+364,Site 4,Pinus roxburghii (chir pine),steep,3,1
+365,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+366,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+367,Site 1,Pinus roxburghii (chir pine),gentle,24,0
+368,Site 5,Eucalyptus camaldulensis,gentle,6,1
+369,Site 2,Dalbergia sissoo (shisham),gentle,24,0
+370,Site 4,Morus alba (mulberry),gentle,24,0
+371,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+372,Site 1,Eucalyptus camaldulensis,gentle,24,0
+373,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+374,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+375,Site 6,Dalbergia sissoo (shisham),gentle,24,0
+376,Site 8,Dalbergia sissoo (shisham),gentle,3,1
+377,Site 1,Pinus roxburghii (chir pine),gentle,18,1
+378,Site 5,Eucalyptus camaldulensis,steep,24,0
+379,Site 4,Eucalyptus camaldulensis,steep,12,0
+380,Site 8,Morus alba (mulberry),gentle,24,0
+381,Site 2,Pinus roxburghii (chir pine),steep,24,0
+382,Site 8,Morus alba (mulberry),gentle,24,0
+383,Site 7,Dalbergia sissoo (shisham),gentle,24,0
+384,Site 5,Morus alba (mulberry),steep,24,0
+385,Site 7,Eucalyptus camaldulensis,steep,24,0
+386,Site 8,Eucalyptus camaldulensis,gentle,18,1
+387,Site 2,Eucalyptus camaldulensis,gentle,24,0
+388,Site 4,Morus alba (mulberry),gentle,24,0
+389,Site 4,Dalbergia sissoo (shisham),steep,12,0
+390,Site 3,Morus alba (mulberry),steep,12,1
+391,Site 1,Pinus roxburghii (chir pine),gentle,12,1
+392,Site 7,Morus alba (mulberry),steep,24,0
+393,Site 6,Morus alba (mulberry),gentle,12,1
+394,Site 3,Morus alba (mulberry),gentle,24,0
+395,Site 6,Dalbergia sissoo (shisham),gentle,24,0
+396,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+397,Site 8,Morus alba (mulberry),gentle,24,1
+398,Site 4,Morus alba (mulberry),gentle,24,0
+399,Site 1,Pinus roxburghii (chir pine),gentle,24,0
+400,Site 4,Morus alba (mulberry),steep,12,1
+401,Site 6,Dalbergia sissoo (shisham),gentle,3,0
+402,Site 8,Eucalyptus camaldulensis,gentle,24,0
+403,Site 4,Morus alba (mulberry),steep,24,0
+404,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+405,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+406,Site 6,Pinus roxburghii (chir pine),steep,24,0
+407,Site 7,Pinus roxburghii (chir pine),steep,24,0
+408,Site 8,Morus alba (mulberry),gentle,24,1
+409,Site 6,Dalbergia sissoo (shisham),steep,24,0
+410,Site 3,Eucalyptus camaldulensis,steep,24,0
+411,Site 4,Pinus roxburghii (chir pine),steep,3,1
+412,Site 3,Morus alba (mulberry),steep,3,0
+413,Site 2,Dalbergia sissoo (shisham),steep,24,0
+414,Site 3,Morus alba (mulberry),steep,18,1
+415,Site 4,Pinus roxburghii (chir pine),gentle,12,1
+416,Site 5,Dalbergia sissoo (shisham),steep,1,1
+417,Site 8,Pinus roxburghii (chir pine),steep,18,1
+418,Site 1,Dalbergia sissoo (shisham),gentle,3,1
+419,Site 8,Pinus roxburghii (chir pine),gentle,12,0
+420,Site 1,Morus alba (mulberry),steep,3,0
+421,Site 5,Morus alba (mulberry),gentle,24,0
+422,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+423,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+424,Site 1,Eucalyptus camaldulensis,steep,3,1
+425,Site 1,Eucalyptus camaldulensis,gentle,18,0
+426,Site 3,Eucalyptus camaldulensis,gentle,24,0
+427,Site 8,Pinus roxburghii (chir pine),steep,24,0
+428,Site 1,Eucalyptus camaldulensis,steep,24,0
+429,Site 3,Dalbergia sissoo (shisham),steep,24,0
+430,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+431,Site 5,Morus alba (mulberry),gentle,24,0
+432,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+433,Site 2,Pinus roxburghii (chir pine),steep,24,1
+434,Site 5,Eucalyptus camaldulensis,steep,24,0
+435,Site 4,Pinus roxburghii (chir pine),steep,24,0
+436,Site 7,Dalbergia sissoo (shisham),gentle,6,0
+437,Site 8,Eucalyptus camaldulensis,steep,24,0
+438,Site 3,Dalbergia sissoo (shisham),steep,24,0
+439,Site 2,Dalbergia sissoo (shisham),gentle,1,1
+440,Site 4,Dalbergia sissoo (shisham),gentle,3,1
+441,Site 8,Eucalyptus camaldulensis,gentle,18,1
+442,Site 7,Morus alba (mulberry),gentle,24,0
+443,Site 5,Dalbergia sissoo (shisham),gentle,12,1
+444,Site 1,Pinus roxburghii (chir pine),gentle,24,0
+445,Site 3,Dalbergia sissoo (shisham),gentle,24,1
+446,Site 5,Dalbergia sissoo (shisham),steep,18,1
+447,Site 7,Dalbergia sissoo (shisham),gentle,24,1
+448,Site 1,Morus alba (mulberry),steep,6,1
+449,Site 8,Pinus roxburghii (chir pine),gentle,24,0
+450,Site 1,Morus alba (mulberry),gentle,24,0
+451,Site 8,Morus alba (mulberry),steep,12,1
+452,Site 8,Pinus roxburghii (chir pine),steep,24,0
+453,Site 3,Morus alba (mulberry),steep,24,1
+454,Site 6,Eucalyptus camaldulensis,steep,24,0
+455,Site 4,Dalbergia sissoo (shisham),gentle,6,0
+456,Site 4,Dalbergia sissoo (shisham),steep,12,1
+457,Site 5,Morus alba (mulberry),steep,24,0
+458,Site 7,Dalbergia sissoo (shisham),gentle,1,1
+459,Site 3,Morus alba (mulberry),steep,24,0
+460,Site 8,Morus alba (mulberry),gentle,24,1
+461,Site 2,Morus alba (mulberry),gentle,24,0
+462,Site 5,Dalbergia sissoo (shisham),steep,24,1
+463,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+464,Site 4,Eucalyptus camaldulensis,gentle,18,0
+465,Site 2,Dalbergia sissoo (shisham),steep,18,1
+466,Site 1,Pinus roxburghii (chir pine),gentle,24,0
+467,Site 1,Eucalyptus camaldulensis,gentle,24,0
+468,Site 8,Morus alba (mulberry),steep,24,0
+469,Site 2,Dalbergia sissoo (shisham),steep,24,0
+470,Site 7,Pinus roxburghii (chir pine),gentle,18,1
+471,Site 1,Pinus roxburghii (chir pine),gentle,24,0
+472,Site 1,Morus alba (mulberry),steep,24,0
+473,Site 1,Morus alba (mulberry),steep,12,1
+474,Site 4,Eucalyptus camaldulensis,steep,24,0
+475,Site 8,Eucalyptus camaldulensis,gentle,24,0
+476,Site 2,Eucalyptus camaldulensis,gentle,24,0
+477,Site 3,Pinus roxburghii (chir pine),steep,24,0
+478,Site 8,Pinus roxburghii (chir pine),gentle,24,0
+479,Site 1,Morus alba (mulberry),steep,6,1
+480,Site 3,Morus alba (mulberry),gentle,12,1
+481,Site 7,Pinus roxburghii (chir pine),gentle,18,1
+482,Site 2,Eucalyptus camaldulensis,gentle,24,0
+483,Site 3,Eucalyptus camaldulensis,steep,24,0
+484,Site 8,Pinus roxburghii (chir pine),gentle,24,0
+485,Site 3,Morus alba (mulberry),gentle,24,0
+486,Site 3,Dalbergia sissoo (shisham),gentle,24,1
+487,Site 4,Morus alba (mulberry),gentle,24,0
+488,Site 2,Morus alba (mulberry),steep,24,0
+489,Site 7,Morus alba (mulberry),gentle,24,0
+490,Site 1,Morus alba (mulberry),steep,24,0
+491,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+492,Site 2,Dalbergia sissoo (shisham),steep,24,0
+493,Site 3,Pinus roxburghii (chir pine),steep,24,0
+494,Site 4,Morus alba (mulberry),steep,24,0
+495,Site 7,Dalbergia sissoo (shisham),gentle,1,1
+496,Site 3,Morus alba (mulberry),steep,12,1
+497,Site 1,Eucalyptus camaldulensis,gentle,24,0
+498,Site 6,Dalbergia sissoo (shisham),gentle,24,0
+499,Site 1,Eucalyptus camaldulensis,gentle,24,0
+500,Site 8,Morus alba (mulberry),steep,18,1
+501,Site 4,Morus alba (mulberry),steep,24,0
+502,Site 2,Morus alba (mulberry),steep,24,0
+503,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+504,Site 1,Morus alba (mulberry),gentle,24,0
+505,Site 5,Dalbergia sissoo (shisham),steep,24,0
+506,Site 7,Morus alba (mulberry),gentle,24,0
+507,Site 7,Morus alba (mulberry),steep,24,0
+508,Site 6,Dalbergia sissoo (shisham),steep,24,0
+509,Site 7,Dalbergia sissoo (shisham),gentle,24,0
+510,Site 7,Dalbergia sissoo (shisham),gentle,18,1
+511,Site 3,Dalbergia sissoo (shisham),steep,24,0
+512,Site 1,Eucalyptus camaldulensis,gentle,24,0
+513,Site 1,Eucalyptus camaldulensis,gentle,24,0
+514,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+515,Site 2,Dalbergia sissoo (shisham),steep,24,1
+516,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+517,Site 2,Pinus roxburghii (chir pine),steep,24,1
+518,Site 2,Pinus roxburghii (chir pine),steep,24,1
+519,Site 4,Dalbergia sissoo (shisham),steep,24,0
+520,Site 4,Eucalyptus camaldulensis,steep,24,0
+521,Site 3,Pinus roxburghii (chir pine),gentle,18,1
+522,Site 7,Eucalyptus camaldulensis,gentle,24,0
+523,Site 2,Eucalyptus camaldulensis,gentle,1,1
+524,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+525,Site 2,Pinus roxburghii (chir pine),gentle,18,1
+526,Site 7,Dalbergia sissoo (shisham),gentle,18,1
+527,Site 7,Dalbergia sissoo (shisham),steep,24,0
+528,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+529,Site 5,Morus alba (mulberry),gentle,24,0
+530,Site 4,Morus alba (mulberry),gentle,12,1
+531,Site 8,Morus alba (mulberry),gentle,24,0
+532,Site 2,Dalbergia sissoo (shisham),gentle,24,0
+533,Site 2,Morus alba (mulberry),gentle,24,0
+534,Site 2,Eucalyptus camaldulensis,gentle,24,0
+535,Site 4,Morus alba (mulberry),steep,24,0
+536,Site 7,Pinus roxburghii (chir pine),steep,1,1
+537,Site 3,Eucalyptus camaldulensis,gentle,24,0
+538,Site 1,Eucalyptus camaldulensis,steep,24,0
+539,Site 2,Morus alba (mulberry),steep,24,0
+540,Site 8,Dalbergia sissoo (shisham),steep,24,0
+541,Site 5,Morus alba (mulberry),gentle,24,0
+542,Site 8,Eucalyptus camaldulensis,gentle,24,0
+543,Site 2,Eucalyptus camaldulensis,steep,24,0
+544,Site 4,Eucalyptus camaldulensis,steep,24,0
+545,Site 8,Dalbergia sissoo (shisham),steep,24,0
+546,Site 5,Eucalyptus camaldulensis,gentle,24,0
+547,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+548,Site 8,Dalbergia sissoo (shisham),gentle,24,1
+549,Site 3,Dalbergia sissoo (shisham),steep,18,1
+550,Site 6,Morus alba (mulberry),gentle,24,0
+551,Site 3,Morus alba (mulberry),steep,24,0
+552,Site 7,Morus alba (mulberry),steep,24,0
+553,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+554,Site 6,Pinus roxburghii (chir pine),steep,24,1
+555,Site 5,Morus alba (mulberry),gentle,3,1
+556,Site 1,Morus alba (mulberry),gentle,18,1
+557,Site 1,Pinus roxburghii (chir pine),steep,1,1
+558,Site 7,Eucalyptus camaldulensis,gentle,24,0
+559,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+560,Site 6,Eucalyptus camaldulensis,gentle,24,0
+561,Site 8,Morus alba (mulberry),steep,24,0
+562,Site 3,Pinus roxburghii (chir pine),steep,18,1
+563,Site 5,Dalbergia sissoo (shisham),steep,24,0
+564,Site 1,Morus alba (mulberry),gentle,24,1
+565,Site 8,Pinus roxburghii (chir pine),gentle,24,0
+566,Site 3,Dalbergia sissoo (shisham),steep,24,1
+567,Site 4,Eucalyptus camaldulensis,gentle,18,1
+568,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+569,Site 2,Eucalyptus camaldulensis,gentle,24,0
+570,Site 3,Pinus roxburghii (chir pine),steep,24,1
+571,Site 6,Dalbergia sissoo (shisham),gentle,24,0
+572,Site 5,Eucalyptus camaldulensis,steep,24,0
+573,Site 2,Pinus roxburghii (chir pine),steep,24,0
+574,Site 4,Eucalyptus camaldulensis,gentle,24,0
+575,Site 6,Morus alba (mulberry),steep,24,0
+576,Site 6,Morus alba (mulberry),steep,24,1
+577,Site 6,Morus alba (mulberry),gentle,24,0
+578,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+579,Site 7,Eucalyptus camaldulensis,gentle,24,0
+580,Site 1,Morus alba (mulberry),gentle,24,0
+581,Site 5,Pinus roxburghii (chir pine),steep,1,1
+582,Site 5,Eucalyptus camaldulensis,gentle,24,0
+583,Site 8,Eucalyptus camaldulensis,steep,24,0
+584,Site 7,Morus alba (mulberry),steep,24,1
+585,Site 3,Morus alba (mulberry),steep,24,0
+586,Site 1,Pinus roxburghii (chir pine),gentle,18,1
+587,Site 4,Pinus roxburghii (chir pine),steep,24,0
+588,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+589,Site 2,Dalbergia sissoo (shisham),steep,12,1
+590,Site 7,Eucalyptus camaldulensis,gentle,24,0
+591,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+592,Site 6,Dalbergia sissoo (shisham),gentle,24,0
+593,Site 3,Eucalyptus camaldulensis,gentle,24,0
+594,Site 4,Morus alba (mulberry),gentle,6,1
+595,Site 3,Morus alba (mulberry),gentle,24,0
+596,Site 3,Eucalyptus camaldulensis,gentle,24,0
+597,Site 8,Dalbergia sissoo (shisham),steep,18,1
+598,Site 1,Morus alba (mulberry),steep,24,0
+599,Site 8,Pinus roxburghii (chir pine),gentle,24,0
+600,Site 5,Morus alba (mulberry),gentle,24,0
+601,Site 6,Pinus roxburghii (chir pine),steep,24,0
+602,Site 7,Morus alba (mulberry),gentle,24,0
+603,Site 5,Morus alba (mulberry),gentle,24,0
+604,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+605,Site 3,Eucalyptus camaldulensis,gentle,24,0
+606,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+607,Site 1,Morus alba (mulberry),steep,12,1
+608,Site 4,Eucalyptus camaldulensis,gentle,6,1
+609,Site 3,Morus alba (mulberry),gentle,12,1
+610,Site 2,Pinus roxburghii (chir pine),gentle,12,1
+611,Site 6,Morus alba (mulberry),gentle,24,0
+612,Site 3,Morus alba (mulberry),steep,24,0
+613,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+614,Site 2,Eucalyptus camaldulensis,steep,12,1
+615,Site 5,Eucalyptus camaldulensis,steep,24,0
+616,Site 3,Pinus roxburghii (chir pine),gentle,12,1
+617,Site 8,Eucalyptus camaldulensis,steep,18,1
+618,Site 1,Pinus roxburghii (chir pine),gentle,24,0
+619,Site 8,Morus alba (mulberry),steep,24,0
+620,Site 4,Dalbergia sissoo (shisham),gentle,1,0
+621,Site 3,Pinus roxburghii (chir pine),gentle,12,1
+622,Site 7,Dalbergia sissoo (shisham),steep,12,1
+623,Site 4,Eucalyptus camaldulensis,gentle,24,0
+624,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+625,Site 3,Morus alba (mulberry),steep,24,0
+626,Site 7,Dalbergia sissoo (shisham),gentle,24,0
+627,Site 1,Pinus roxburghii (chir pine),steep,24,0
+628,Site 5,Eucalyptus camaldulensis,gentle,24,0
+629,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+630,Site 7,Pinus roxburghii (chir pine),steep,24,0
+631,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+632,Site 8,Eucalyptus camaldulensis,steep,24,0
+633,Site 2,Morus alba (mulberry),steep,12,1
+634,Site 1,Pinus roxburghii (chir pine),steep,24,0
+635,Site 8,Eucalyptus camaldulensis,steep,24,0
+636,Site 4,Eucalyptus camaldulensis,steep,24,1
+637,Site 8,Morus alba (mulberry),gentle,24,0
+638,Site 2,Dalbergia sissoo (shisham),steep,24,0
+639,Site 2,Pinus roxburghii (chir pine),steep,12,1
+640,Site 2,Morus alba (mulberry),steep,6,1
+641,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+642,Site 6,Pinus roxburghii (chir pine),steep,24,0
+643,Site 2,Eucalyptus camaldulensis,steep,24,0
+644,Site 1,Dalbergia sissoo (shisham),steep,24,1
+645,Site 2,Dalbergia sissoo (shisham),steep,24,0
+646,Site 5,Morus alba (mulberry),gentle,24,0
+647,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+648,Site 8,Morus alba (mulberry),gentle,24,0
+649,Site 8,Dalbergia sissoo (shisham),steep,24,0
+650,Site 4,Eucalyptus camaldulensis,steep,24,0
+651,Site 8,Dalbergia sissoo (shisham),gentle,6,1
+652,Site 6,Pinus roxburghii (chir pine),steep,24,0
+653,Site 7,Dalbergia sissoo (shisham),steep,24,0
+654,Site 2,Dalbergia sissoo (shisham),steep,18,1
+655,Site 4,Morus alba (mulberry),steep,3,1
+656,Site 7,Morus alba (mulberry),steep,3,1
+657,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+658,Site 7,Pinus roxburghii (chir pine),gentle,6,1
+659,Site 4,Dalbergia sissoo (shisham),gentle,24,0
+660,Site 5,Eucalyptus camaldulensis,steep,24,0
+661,Site 7,Morus alba (mulberry),steep,6,1
+662,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+663,Site 7,Morus alba (mulberry),steep,24,0
+664,Site 5,Pinus roxburghii (chir pine),gentle,18,1
+665,Site 7,Dalbergia sissoo (shisham),gentle,12,1
+666,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+667,Site 3,Dalbergia sissoo (shisham),gentle,1,0
+668,Site 1,Morus alba (mulberry),gentle,24,0
+669,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+670,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+671,Site 1,Morus alba (mulberry),steep,24,0
+672,Site 3,Pinus roxburghii (chir pine),steep,24,0
+673,Site 3,Dalbergia sissoo (shisham),gentle,12,1
+674,Site 6,Dalbergia sissoo (shisham),gentle,24,0
+675,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+676,Site 4,Dalbergia sissoo (shisham),gentle,1,1
+677,Site 2,Pinus roxburghii (chir pine),steep,6,1
+678,Site 2,Morus alba (mulberry),steep,24,0
+679,Site 6,Dalbergia sissoo (shisham),gentle,3,0
+680,Site 4,Morus alba (mulberry),gentle,24,0
+681,Site 5,Dalbergia sissoo (shisham),gentle,3,1
+682,Site 8,Eucalyptus camaldulensis,gentle,6,0
+683,Site 6,Morus alba (mulberry),gentle,24,0
+684,Site 6,Morus alba (mulberry),gentle,3,1
+685,Site 5,Eucalyptus camaldulensis,gentle,24,0
+686,Site 1,Dalbergia sissoo (shisham),steep,6,1
+687,Site 7,Dalbergia sissoo (shisham),gentle,24,0
+688,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+689,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+690,Site 8,Pinus roxburghii (chir pine),steep,24,0
+691,Site 1,Dalbergia sissoo (shisham),steep,24,0
+692,Site 1,Pinus roxburghii (chir pine),steep,24,1
+693,Site 8,Pinus roxburghii (chir pine),steep,3,0
+694,Site 1,Morus alba (mulberry),gentle,18,1
+695,Site 1,Morus alba (mulberry),gentle,24,0
+696,Site 7,Morus alba (mulberry),gentle,24,1
+697,Site 6,Dalbergia sissoo (shisham),gentle,12,1
+698,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+699,Site 2,Morus alba (mulberry),gentle,24,0
+700,Site 7,Dalbergia sissoo (shisham),steep,24,0
+701,Site 8,Pinus roxburghii (chir pine),gentle,24,0
+702,Site 3,Eucalyptus camaldulensis,steep,24,0
+703,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+704,Site 5,Eucalyptus camaldulensis,steep,24,0
+705,Site 7,Eucalyptus camaldulensis,steep,24,0
+706,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+707,Site 5,Eucalyptus camaldulensis,gentle,24,0
+708,Site 1,Pinus roxburghii (chir pine),gentle,1,1
+709,Site 7,Dalbergia sissoo (shisham),steep,24,0
+710,Site 5,Eucalyptus camaldulensis,gentle,12,1
+711,Site 4,Dalbergia sissoo (shisham),gentle,6,1
+712,Site 7,Dalbergia sissoo (shisham),steep,6,1
+713,Site 2,Pinus roxburghii (chir pine),steep,24,0
+714,Site 5,Dalbergia sissoo (shisham),steep,24,0
+715,Site 7,Morus alba (mulberry),steep,12,1
+716,Site 1,Morus alba (mulberry),gentle,24,1
+717,Site 3,Morus alba (mulberry),gentle,24,0
+718,Site 1,Eucalyptus camaldulensis,gentle,18,1
+719,Site 5,Morus alba (mulberry),gentle,6,1
+720,Site 7,Pinus roxburghii (chir pine),steep,24,0
+721,Site 8,Eucalyptus camaldulensis,steep,18,1
+722,Site 3,Eucalyptus camaldulensis,gentle,24,0
+723,Site 6,Morus alba (mulberry),steep,24,0
+724,Site 2,Eucalyptus camaldulensis,steep,24,0
+725,Site 1,Eucalyptus camaldulensis,gentle,24,0
+726,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+727,Site 1,Morus alba (mulberry),gentle,24,0
+728,Site 8,Dalbergia sissoo (shisham),gentle,18,1
+729,Site 4,Eucalyptus camaldulensis,steep,24,0
+730,Site 4,Dalbergia sissoo (shisham),steep,24,1
+731,Site 8,Dalbergia sissoo (shisham),gentle,24,1
+732,Site 2,Morus alba (mulberry),gentle,24,0
+733,Site 4,Morus alba (mulberry),steep,24,0
+734,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+735,Site 3,Dalbergia sissoo (shisham),steep,24,0
+736,Site 1,Morus alba (mulberry),gentle,24,0
+737,Site 1,Eucalyptus camaldulensis,gentle,6,1
+738,Site 8,Eucalyptus camaldulensis,gentle,24,0
+739,Site 2,Dalbergia sissoo (shisham),steep,24,0
+740,Site 4,Morus alba (mulberry),gentle,12,1
+741,Site 1,Pinus roxburghii (chir pine),gentle,24,0
+742,Site 4,Eucalyptus camaldulensis,gentle,24,0
+743,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+744,Site 1,Pinus roxburghii (chir pine),gentle,24,1
+745,Site 3,Morus alba (mulberry),steep,24,0
+746,Site 3,Eucalyptus camaldulensis,steep,6,1
+747,Site 2,Morus alba (mulberry),gentle,24,0
+748,Site 7,Pinus roxburghii (chir pine),steep,24,0
+749,Site 6,Eucalyptus camaldulensis,steep,24,0
+750,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+751,Site 4,Morus alba (mulberry),steep,24,0
+752,Site 4,Morus alba (mulberry),steep,24,0
+753,Site 2,Eucalyptus camaldulensis,gentle,24,1
+754,Site 3,Dalbergia sissoo (shisham),gentle,24,1
+755,Site 6,Dalbergia sissoo (shisham),gentle,24,0
+756,Site 8,Pinus roxburghii (chir pine),gentle,24,0
+757,Site 5,Eucalyptus camaldulensis,steep,24,0
+758,Site 3,Pinus roxburghii (chir pine),steep,24,0
+759,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+760,Site 3,Eucalyptus camaldulensis,steep,24,0
+761,Site 2,Pinus roxburghii (chir pine),steep,18,1
+762,Site 2,Pinus roxburghii (chir pine),steep,24,0
+763,Site 1,Dalbergia sissoo (shisham),steep,6,1
+764,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+765,Site 5,Eucalyptus camaldulensis,gentle,24,0
+766,Site 7,Eucalyptus camaldulensis,steep,24,0
+767,Site 8,Eucalyptus camaldulensis,gentle,24,0
+768,Site 5,Eucalyptus camaldulensis,gentle,24,0
+769,Site 2,Morus alba (mulberry),steep,24,0
+770,Site 7,Dalbergia sissoo (shisham),steep,24,0
+771,Site 3,Morus alba (mulberry),gentle,24,1
+772,Site 3,Pinus roxburghii (chir pine),steep,24,0
+773,Site 6,Pinus roxburghii (chir pine),steep,12,1
+774,Site 6,Eucalyptus camaldulensis,gentle,24,0
+775,Site 4,Eucalyptus camaldulensis,gentle,6,1
+776,Site 2,Eucalyptus camaldulensis,gentle,24,0
+777,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+778,Site 4,Morus alba (mulberry),gentle,24,0
+779,Site 7,Eucalyptus camaldulensis,gentle,24,0
+780,Site 3,Morus alba (mulberry),gentle,6,1
+781,Site 4,Pinus roxburghii (chir pine),gentle,18,1
+782,Site 3,Morus alba (mulberry),steep,24,0
+783,Site 2,Eucalyptus camaldulensis,steep,24,0
+784,Site 7,Eucalyptus camaldulensis,gentle,24,0
+785,Site 8,Eucalyptus camaldulensis,steep,3,1
+786,Site 2,Morus alba (mulberry),gentle,6,0
+787,Site 1,Pinus roxburghii (chir pine),gentle,24,0
+788,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+789,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+790,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+791,Site 6,Eucalyptus camaldulensis,gentle,24,0
+792,Site 8,Morus alba (mulberry),steep,24,0
+793,Site 1,Eucalyptus camaldulensis,gentle,24,0
+794,Site 2,Morus alba (mulberry),gentle,24,0
+795,Site 4,Dalbergia sissoo (shisham),gentle,24,0
+796,Site 3,Morus alba (mulberry),gentle,24,1
+797,Site 7,Dalbergia sissoo (shisham),steep,24,0
+798,Site 6,Morus alba (mulberry),gentle,24,0
+799,Site 4,Dalbergia sissoo (shisham),gentle,24,0
+800,Site 3,Dalbergia sissoo (shisham),steep,24,0
+801,Site 2,Morus alba (mulberry),gentle,24,0
+802,Site 6,Dalbergia sissoo (shisham),gentle,24,0
+803,Site 8,Dalbergia sissoo (shisham),steep,1,0
+804,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+805,Site 7,Morus alba (mulberry),steep,3,1
+806,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+807,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+808,Site 5,Dalbergia sissoo (shisham),steep,24,1
+809,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+810,Site 1,Eucalyptus camaldulensis,gentle,12,0
+811,Site 8,Pinus roxburghii (chir pine),gentle,24,1
+812,Site 7,Pinus roxburghii (chir pine),steep,12,1
+813,Site 5,Dalbergia sissoo (shisham),gentle,1,1
+814,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+815,Site 4,Morus alba (mulberry),gentle,24,0
+816,Site 5,Morus alba (mulberry),gentle,24,0
+817,Site 4,Dalbergia sissoo (shisham),gentle,24,0
+818,Site 2,Dalbergia sissoo (shisham),gentle,24,0
+819,Site 8,Dalbergia sissoo (shisham),steep,24,0
+820,Site 6,Dalbergia sissoo (shisham),gentle,1,1
+821,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+822,Site 4,Eucalyptus camaldulensis,gentle,24,0
+823,Site 2,Morus alba (mulberry),gentle,24,0
+824,Site 8,Eucalyptus camaldulensis,steep,6,1
+825,Site 4,Eucalyptus camaldulensis,steep,24,0
+826,Site 8,Pinus roxburghii (chir pine),gentle,24,0
+827,Site 4,Pinus roxburghii (chir pine),steep,24,0
+828,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+829,Site 4,Dalbergia sissoo (shisham),gentle,24,0
+830,Site 2,Dalbergia sissoo (shisham),steep,24,0
+831,Site 5,Eucalyptus camaldulensis,gentle,3,0
+832,Site 3,Morus alba (mulberry),gentle,24,0
+833,Site 4,Dalbergia sissoo (shisham),steep,12,1
+834,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+835,Site 4,Eucalyptus camaldulensis,steep,3,1
+836,Site 7,Morus alba (mulberry),gentle,24,0
+837,Site 4,Dalbergia sissoo (shisham),steep,3,1
+838,Site 8,Morus alba (mulberry),gentle,1,1
+839,Site 1,Eucalyptus camaldulensis,gentle,24,0
+840,Site 8,Eucalyptus camaldulensis,gentle,24,0
+841,Site 2,Dalbergia sissoo (shisham),gentle,24,1
+842,Site 7,Pinus roxburghii (chir pine),steep,24,0
+843,Site 2,Dalbergia sissoo (shisham),gentle,6,1
+844,Site 4,Morus alba (mulberry),steep,24,1
+845,Site 5,Eucalyptus camaldulensis,gentle,24,0
+846,Site 5,Pinus roxburghii (chir pine),steep,18,1
+847,Site 7,Eucalyptus camaldulensis,gentle,6,0
+848,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+849,Site 6,Morus alba (mulberry),gentle,24,0
+850,Site 5,Pinus roxburghii (chir pine),steep,24,0
+851,Site 8,Pinus roxburghii (chir pine),gentle,24,0
+852,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+853,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+854,Site 5,Eucalyptus camaldulensis,steep,24,0
+855,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+856,Site 1,Dalbergia sissoo (shisham),gentle,18,1
+857,Site 3,Morus alba (mulberry),steep,6,1
+858,Site 1,Dalbergia sissoo (shisham),gentle,24,0
+859,Site 2,Dalbergia sissoo (shisham),gentle,24,0
+860,Site 6,Dalbergia sissoo (shisham),steep,3,1
+861,Site 8,Dalbergia sissoo (shisham),steep,24,0
+862,Site 4,Pinus roxburghii (chir pine),steep,24,0
+863,Site 6,Morus alba (mulberry),gentle,1,0
+864,Site 2,Pinus roxburghii (chir pine),steep,18,1
+865,Site 2,Pinus roxburghii (chir pine),steep,1,1
+866,Site 8,Pinus roxburghii (chir pine),gentle,24,0
+867,Site 6,Morus alba (mulberry),steep,24,0
+868,Site 1,Eucalyptus camaldulensis,steep,24,1
+869,Site 7,Eucalyptus camaldulensis,gentle,24,0
+870,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+871,Site 3,Morus alba (mulberry),gentle,24,0
+872,Site 7,Dalbergia sissoo (shisham),gentle,24,0
+873,Site 3,Pinus roxburghii (chir pine),gentle,12,1
+874,Site 1,Dalbergia sissoo (shisham),gentle,24,0
+875,Site 8,Pinus roxburghii (chir pine),gentle,24,0
+876,Site 7,Morus alba (mulberry),gentle,24,0
+877,Site 6,Eucalyptus camaldulensis,steep,18,0
+878,Site 6,Morus alba (mulberry),steep,6,1
+879,Site 1,Eucalyptus camaldulensis,gentle,24,0
+880,Site 2,Dalbergia sissoo (shisham),gentle,24,0
+881,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+882,Site 6,Morus alba (mulberry),steep,24,0
+883,Site 4,Morus alba (mulberry),steep,24,0
+884,Site 8,Dalbergia sissoo (shisham),steep,24,0
+885,Site 6,Morus alba (mulberry),gentle,24,0
+886,Site 1,Morus alba (mulberry),steep,24,0
+887,Site 8,Morus alba (mulberry),gentle,24,0
+888,Site 3,Morus alba (mulberry),gentle,24,0
+889,Site 4,Eucalyptus camaldulensis,gentle,6,1
+890,Site 2,Morus alba (mulberry),gentle,6,1
+891,Site 8,Eucalyptus camaldulensis,gentle,24,0
+892,Site 7,Eucalyptus camaldulensis,gentle,24,0
+893,Site 4,Eucalyptus camaldulensis,steep,3,1
+894,Site 2,Eucalyptus camaldulensis,steep,24,0
+895,Site 2,Dalbergia sissoo (shisham),steep,24,0
+896,Site 1,Pinus roxburghii (chir pine),gentle,18,1
+897,Site 2,Morus alba (mulberry),gentle,12,1
+898,Site 1,Dalbergia sissoo (shisham),steep,24,0
+899,Site 2,Dalbergia sissoo (shisham),gentle,12,1
+900,Site 7,Pinus roxburghii (chir pine),steep,24,1
+901,Site 4,Pinus roxburghii (chir pine),steep,3,1
+902,Site 2,Dalbergia sissoo (shisham),gentle,24,0
+903,Site 8,Pinus roxburghii (chir pine),steep,24,0
+904,Site 8,Eucalyptus camaldulensis,gentle,24,0
+905,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+906,Site 1,Morus alba (mulberry),steep,24,0
+907,Site 4,Morus alba (mulberry),gentle,24,0
+908,Site 4,Morus alba (mulberry),steep,24,0
+909,Site 1,Morus alba (mulberry),gentle,3,1
+910,Site 2,Pinus roxburghii (chir pine),steep,24,0
+911,Site 1,Pinus roxburghii (chir pine),steep,24,0
+912,Site 2,Eucalyptus camaldulensis,gentle,24,0
+913,Site 6,Eucalyptus camaldulensis,gentle,24,0
+914,Site 2,Morus alba (mulberry),steep,24,0
+915,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+916,Site 5,Dalbergia sissoo (shisham),steep,24,0
+917,Site 8,Morus alba (mulberry),steep,18,1
+918,Site 2,Eucalyptus camaldulensis,gentle,24,0
+919,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+920,Site 3,Pinus roxburghii (chir pine),gentle,24,1
+921,Site 6,Eucalyptus camaldulensis,gentle,24,0
+922,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+923,Site 4,Dalbergia sissoo (shisham),gentle,24,0
+924,Site 5,Eucalyptus camaldulensis,gentle,24,0
+925,Site 1,Eucalyptus camaldulensis,steep,24,0
+926,Site 1,Pinus roxburghii (chir pine),steep,12,1
+927,Site 6,Eucalyptus camaldulensis,gentle,24,0
+928,Site 3,Pinus roxburghii (chir pine),steep,24,0
+929,Site 6,Pinus roxburghii (chir pine),steep,24,0
+930,Site 5,Morus alba (mulberry),gentle,24,0
+931,Site 8,Pinus roxburghii (chir pine),steep,6,0
+932,Site 3,Morus alba (mulberry),steep,24,1
+933,Site 1,Dalbergia sissoo (shisham),steep,24,0
+934,Site 1,Morus alba (mulberry),steep,18,1
+935,Site 3,Eucalyptus camaldulensis,gentle,24,0
+936,Site 1,Pinus roxburghii (chir pine),gentle,24,0
+937,Site 2,Eucalyptus camaldulensis,gentle,24,0
+938,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+939,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+940,Site 5,Morus alba (mulberry),steep,24,0
+941,Site 8,Morus alba (mulberry),gentle,24,0
+942,Site 4,Dalbergia sissoo (shisham),gentle,24,0
+943,Site 5,Pinus roxburghii (chir pine),steep,24,0
+944,Site 2,Pinus roxburghii (chir pine),steep,18,1
+945,Site 7,Dalbergia sissoo (shisham),gentle,12,0
+946,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+947,Site 7,Morus alba (mulberry),gentle,3,0
+948,Site 3,Dalbergia sissoo (shisham),steep,18,1
+949,Site 7,Dalbergia sissoo (shisham),gentle,24,0
+950,Site 8,Eucalyptus camaldulensis,gentle,24,0
+951,Site 1,Dalbergia sissoo (shisham),gentle,24,0
+952,Site 1,Pinus roxburghii (chir pine),steep,24,0
+953,Site 5,Morus alba (mulberry),gentle,24,0
+954,Site 1,Morus alba (mulberry),gentle,24,0
+955,Site 2,Eucalyptus camaldulensis,steep,18,1
+956,Site 1,Eucalyptus camaldulensis,steep,24,0
+957,Site 4,Pinus roxburghii (chir pine),steep,24,0
+958,Site 5,Morus alba (mulberry),steep,24,1
+959,Site 8,Pinus roxburghii (chir pine),steep,1,1
+960,Site 1,Dalbergia sissoo (shisham),gentle,18,1
+961,Site 1,Dalbergia sissoo (shisham),gentle,24,0
+962,Site 3,Morus alba (mulberry),gentle,24,0
+963,Site 4,Dalbergia sissoo (shisham),gentle,6,1
+964,Site 3,Pinus roxburghii (chir pine),gentle,6,1
+965,Site 1,Pinus roxburghii (chir pine),steep,24,0
+966,Site 4,Dalbergia sissoo (shisham),steep,24,1
+967,Site 1,Dalbergia sissoo (shisham),steep,12,1
+968,Site 4,Dalbergia sissoo (shisham),gentle,24,0
+969,Site 8,Morus alba (mulberry),gentle,24,0
+970,Site 7,Eucalyptus camaldulensis,gentle,24,0
+971,Site 2,Dalbergia sissoo (shisham),steep,18,1
+972,Site 3,Eucalyptus camaldulensis,steep,24,0
+973,Site 4,Eucalyptus camaldulensis,steep,18,1
+974,Site 2,Eucalyptus camaldulensis,gentle,18,0
+975,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+976,Site 7,Dalbergia sissoo (shisham),gentle,24,0
+977,Site 7,Eucalyptus camaldulensis,gentle,24,0
+978,Site 2,Eucalyptus camaldulensis,steep,6,1
+979,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+980,Site 2,Eucalyptus camaldulensis,gentle,24,0
+981,Site 2,Dalbergia sissoo (shisham),steep,24,0
+982,Site 1,Dalbergia sissoo (shisham),steep,24,0
+983,Site 8,Morus alba (mulberry),gentle,6,1
+984,Site 8,Morus alba (mulberry),steep,24,0
+985,Site 3,Morus alba (mulberry),gentle,24,0
+986,Site 6,Pinus roxburghii (chir pine),steep,24,0
+987,Site 3,Pinus roxburghii (chir pine),gentle,24,1
+988,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+989,Site 3,Eucalyptus camaldulensis,gentle,24,0
+990,Site 1,Morus alba (mulberry),steep,24,0
+991,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+992,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+993,Site 5,Eucalyptus camaldulensis,steep,24,0
+994,Site 1,Morus alba (mulberry),gentle,24,0
+995,Site 8,Pinus roxburghii (chir pine),gentle,24,0
+996,Site 6,Pinus roxburghii (chir pine),steep,24,0
+997,Site 6,Dalbergia sissoo (shisham),steep,24,0
+998,Site 7,Morus alba (mulberry),steep,24,0
+999,Site 1,Morus alba (mulberry),steep,24,0
+1000,Site 4,Eucalyptus camaldulensis,gentle,24,0
+1001,Site 5,Pinus roxburghii (chir pine),steep,24,0
+1002,Site 2,Eucalyptus camaldulensis,gentle,24,0
+1003,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+1004,Site 8,Dalbergia sissoo (shisham),steep,18,1
+1005,Site 2,Dalbergia sissoo (shisham),gentle,24,0
+1006,Site 1,Dalbergia sissoo (shisham),steep,24,1
+1007,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+1008,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+1009,Site 2,Morus alba (mulberry),steep,24,0
+1010,Site 5,Morus alba (mulberry),gentle,24,0
+1011,Site 1,Eucalyptus camaldulensis,gentle,24,0
+1012,Site 6,Eucalyptus camaldulensis,steep,3,1
+1013,Site 4,Dalbergia sissoo (shisham),gentle,12,1
+1014,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+1015,Site 6,Dalbergia sissoo (shisham),steep,24,1
+1016,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+1017,Site 7,Morus alba (mulberry),gentle,24,0
+1018,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+1019,Site 7,Morus alba (mulberry),steep,18,1
+1020,Site 8,Pinus roxburghii (chir pine),gentle,12,1
+1021,Site 1,Dalbergia sissoo (shisham),steep,12,1
+1022,Site 8,Morus alba (mulberry),steep,24,0
+1023,Site 1,Eucalyptus camaldulensis,steep,24,0
+1024,Site 1,Eucalyptus camaldulensis,steep,24,1
+1025,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+1026,Site 7,Eucalyptus camaldulensis,steep,3,1
+1027,Site 5,Morus alba (mulberry),steep,24,0
+1028,Site 4,Pinus roxburghii (chir pine),steep,24,0
+1029,Site 8,Morus alba (mulberry),gentle,24,1
+1030,Site 3,Dalbergia sissoo (shisham),steep,18,1
+1031,Site 6,Morus alba (mulberry),steep,3,1
+1032,Site 4,Eucalyptus camaldulensis,gentle,24,0
+1033,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+1034,Site 1,Morus alba (mulberry),gentle,6,1
+1035,Site 5,Eucalyptus camaldulensis,gentle,24,0
+1036,Site 6,Dalbergia sissoo (shisham),steep,24,0
+1037,Site 2,Pinus roxburghii (chir pine),steep,24,0
+1038,Site 6,Eucalyptus camaldulensis,gentle,24,0
+1039,Site 8,Morus alba (mulberry),gentle,24,0
+1040,Site 2,Eucalyptus camaldulensis,steep,24,0
+1041,Site 4,Dalbergia sissoo (shisham),gentle,3,1
+1042,Site 1,Pinus roxburghii (chir pine),gentle,1,0
+1043,Site 8,Morus alba (mulberry),gentle,3,1
+1044,Site 6,Morus alba (mulberry),steep,24,1
+1045,Site 3,Morus alba (mulberry),steep,24,0
+1046,Site 8,Pinus roxburghii (chir pine),gentle,24,1
+1047,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+1048,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+1049,Site 1,Eucalyptus camaldulensis,gentle,1,1
+1050,Site 8,Morus alba (mulberry),steep,24,0
+1051,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+1052,Site 5,Dalbergia sissoo (shisham),steep,3,1
+1053,Site 4,Dalbergia sissoo (shisham),steep,12,1
+1054,Site 2,Eucalyptus camaldulensis,gentle,3,1
+1055,Site 5,Morus alba (mulberry),gentle,24,0
+1056,Site 7,Dalbergia sissoo (shisham),gentle,24,0
+1057,Site 5,Dalbergia sissoo (shisham),steep,18,0
+1058,Site 7,Pinus roxburghii (chir pine),gentle,12,1
+1059,Site 1,Dalbergia sissoo (shisham),gentle,24,1
+1060,Site 3,Morus alba (mulberry),gentle,3,0
+1061,Site 6,Dalbergia sissoo (shisham),gentle,24,0
+1062,Site 5,Dalbergia sissoo (shisham),gentle,18,1
+1063,Site 7,Pinus roxburghii (chir pine),steep,24,0
+1064,Site 2,Pinus roxburghii (chir pine),gentle,3,1
+1065,Site 8,Pinus roxburghii (chir pine),steep,24,0
+1066,Site 5,Eucalyptus camaldulensis,gentle,24,0
+1067,Site 6,Eucalyptus camaldulensis,steep,24,0
+1068,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+1069,Site 6,Eucalyptus camaldulensis,steep,1,0
+1070,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+1071,Site 5,Dalbergia sissoo (shisham),gentle,18,1
+1072,Site 7,Dalbergia sissoo (shisham),gentle,24,0
+1073,Site 5,Morus alba (mulberry),steep,24,0
+1074,Site 7,Pinus roxburghii (chir pine),steep,24,0
+1075,Site 8,Dalbergia sissoo (shisham),steep,24,0
+1076,Site 6,Eucalyptus camaldulensis,gentle,12,1
+1077,Site 1,Morus alba (mulberry),gentle,24,0
+1078,Site 8,Pinus roxburghii (chir pine),gentle,24,0
+1079,Site 3,Morus alba (mulberry),gentle,24,0
+1080,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+1081,Site 2,Morus alba (mulberry),steep,24,0
+1082,Site 5,Eucalyptus camaldulensis,gentle,24,0
+1083,Site 5,Pinus roxburghii (chir pine),steep,24,0
+1084,Site 6,Morus alba (mulberry),steep,24,0
+1085,Site 5,Pinus roxburghii (chir pine),steep,24,0
+1086,Site 2,Eucalyptus camaldulensis,gentle,6,1
+1087,Site 2,Dalbergia sissoo (shisham),gentle,12,1
+1088,Site 1,Eucalyptus camaldulensis,steep,24,0
+1089,Site 2,Eucalyptus camaldulensis,gentle,24,0
+1090,Site 2,Morus alba (mulberry),gentle,12,0
+1091,Site 2,Morus alba (mulberry),steep,24,0
+1092,Site 7,Pinus roxburghii (chir pine),steep,24,0
+1093,Site 2,Morus alba (mulberry),steep,24,1
+1094,Site 8,Morus alba (mulberry),steep,24,0
+1095,Site 2,Eucalyptus camaldulensis,gentle,24,0
+1096,Site 2,Pinus roxburghii (chir pine),gentle,18,1
+1097,Site 8,Dalbergia sissoo (shisham),steep,12,1
+1098,Site 8,Pinus roxburghii (chir pine),steep,12,1
+1099,Site 7,Pinus roxburghii (chir pine),steep,24,0
+1100,Site 7,Eucalyptus camaldulensis,steep,24,0
+1101,Site 6,Morus alba (mulberry),gentle,24,0
+1102,Site 2,Dalbergia sissoo (shisham),gentle,24,0
+1103,Site 1,Morus alba (mulberry),steep,24,0
+1104,Site 5,Morus alba (mulberry),gentle,24,0
+1105,Site 6,Morus alba (mulberry),steep,24,0
+1106,Site 3,Morus alba (mulberry),gentle,24,0
+1107,Site 7,Eucalyptus camaldulensis,steep,24,0
+1108,Site 6,Eucalyptus camaldulensis,steep,24,1
+1109,Site 5,Eucalyptus camaldulensis,gentle,24,0
+1110,Site 3,Morus alba (mulberry),gentle,24,0
+1111,Site 1,Eucalyptus camaldulensis,steep,24,1
+1112,Site 4,Eucalyptus camaldulensis,gentle,24,0
+1113,Site 3,Eucalyptus camaldulensis,gentle,24,0
+1114,Site 5,Dalbergia sissoo (shisham),steep,24,0
+1115,Site 7,Dalbergia sissoo (shisham),steep,24,0
+1116,Site 3,Eucalyptus camaldulensis,gentle,24,0
+1117,Site 7,Pinus roxburghii (chir pine),gentle,12,1
+1118,Site 7,Eucalyptus camaldulensis,steep,24,0
+1119,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+1120,Site 5,Morus alba (mulberry),steep,24,0
+1121,Site 7,Eucalyptus camaldulensis,gentle,24,0
+1122,Site 1,Morus alba (mulberry),gentle,24,0
+1123,Site 4,Pinus roxburghii (chir pine),steep,24,0
+1124,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+1125,Site 7,Morus alba (mulberry),gentle,24,0
+1126,Site 4,Morus alba (mulberry),gentle,24,0
+1127,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+1128,Site 8,Pinus roxburghii (chir pine),steep,3,1
+1129,Site 5,Eucalyptus camaldulensis,gentle,24,1
+1130,Site 8,Dalbergia sissoo (shisham),gentle,18,1
+1131,Site 3,Dalbergia sissoo (shisham),steep,24,0
+1132,Site 1,Morus alba (mulberry),steep,24,0
+1133,Site 7,Eucalyptus camaldulensis,gentle,24,0
+1134,Site 7,Dalbergia sissoo (shisham),gentle,3,0
+1135,Site 5,Dalbergia sissoo (shisham),steep,18,1
+1136,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+1137,Site 6,Pinus roxburghii (chir pine),steep,24,0
+1138,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+1139,Site 1,Dalbergia sissoo (shisham),steep,18,1
+1140,Site 1,Eucalyptus camaldulensis,gentle,24,0
+1141,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+1142,Site 8,Eucalyptus camaldulensis,gentle,24,0
+1143,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+1144,Site 6,Eucalyptus camaldulensis,steep,24,0
+1145,Site 7,Dalbergia sissoo (shisham),gentle,24,0
+1146,Site 6,Morus alba (mulberry),gentle,24,0
+1147,Site 4,Dalbergia sissoo (shisham),gentle,24,1
+1148,Site 8,Morus alba (mulberry),steep,12,1
+1149,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+1150,Site 1,Pinus roxburghii (chir pine),steep,24,0
+1151,Site 5,Pinus roxburghii (chir pine),gentle,6,1
+1152,Site 4,Eucalyptus camaldulensis,gentle,24,0
+1153,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+1154,Site 1,Dalbergia sissoo (shisham),gentle,24,0
+1155,Site 1,Dalbergia sissoo (shisham),gentle,24,0
+1156,Site 3,Morus alba (mulberry),gentle,24,0
+1157,Site 2,Pinus roxburghii (chir pine),steep,24,0
+1158,Site 8,Pinus roxburghii (chir pine),steep,24,0
+1159,Site 5,Pinus roxburghii (chir pine),steep,24,0
+1160,Site 4,Morus alba (mulberry),steep,24,0
+1161,Site 3,Dalbergia sissoo (shisham),steep,24,0
+1162,Site 7,Pinus roxburghii (chir pine),steep,6,1
+1163,Site 1,Pinus roxburghii (chir pine),steep,24,0
+1164,Site 7,Eucalyptus camaldulensis,gentle,24,0
+1165,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+1166,Site 5,Morus alba (mulberry),gentle,24,0
+1167,Site 5,Morus alba (mulberry),gentle,24,0
+1168,Site 7,Morus alba (mulberry),steep,24,0
+1169,Site 6,Pinus roxburghii (chir pine),steep,24,0
+1170,Site 2,Morus alba (mulberry),gentle,24,0
+1171,Site 1,Pinus roxburghii (chir pine),steep,24,0
+1172,Site 1,Pinus roxburghii (chir pine),steep,24,0
+1173,Site 8,Pinus roxburghii (chir pine),gentle,24,0
+1174,Site 2,Dalbergia sissoo (shisham),gentle,12,1
+1175,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+1176,Site 1,Pinus roxburghii (chir pine),steep,24,1
+1177,Site 6,Dalbergia sissoo (shisham),gentle,24,0
+1178,Site 1,Dalbergia sissoo (shisham),steep,1,1
+1179,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+1180,Site 1,Dalbergia sissoo (shisham),steep,6,1
+1181,Site 3,Dalbergia sissoo (shisham),steep,24,0
+1182,Site 1,Pinus roxburghii (chir pine),gentle,24,0
+1183,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+1184,Site 1,Dalbergia sissoo (shisham),steep,24,0
+1185,Site 3,Morus alba (mulberry),steep,24,0
+1186,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+1187,Site 4,Morus alba (mulberry),gentle,24,0
+1188,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+1189,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+1190,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+1191,Site 2,Morus alba (mulberry),gentle,24,0
+1192,Site 6,Eucalyptus camaldulensis,gentle,24,0
+1193,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+1194,Site 8,Morus alba (mulberry),steep,18,1
+1195,Site 1,Eucalyptus camaldulensis,gentle,24,0
+1196,Site 6,Dalbergia sissoo (shisham),steep,6,1
+1197,Site 5,Eucalyptus camaldulensis,gentle,24,0
+1198,Site 8,Pinus roxburghii (chir pine),gentle,24,0
+1199,Site 2,Pinus roxburghii (chir pine),steep,24,0
+1200,Site 8,Pinus roxburghii (chir pine),steep,24,0
+1201,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+1202,Site 4,Dalbergia sissoo (shisham),gentle,24,0
+1203,Site 1,Eucalyptus camaldulensis,gentle,24,0
+1204,Site 2,Morus alba (mulberry),steep,24,0
+1205,Site 8,Dalbergia sissoo (shisham),gentle,18,1
+1206,Site 1,Eucalyptus camaldulensis,steep,24,0
+1207,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+1208,Site 8,Dalbergia sissoo (shisham),steep,24,0
+1209,Site 2,Eucalyptus camaldulensis,steep,24,0
+1210,Site 2,Eucalyptus camaldulensis,steep,24,0
+1211,Site 2,Morus alba (mulberry),gentle,24,0
+1212,Site 8,Eucalyptus camaldulensis,steep,24,0
+1213,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+1214,Site 6,Eucalyptus camaldulensis,steep,24,1
+1215,Site 6,Morus alba (mulberry),gentle,24,0
+1216,Site 7,Dalbergia sissoo (shisham),gentle,24,0
+1217,Site 7,Pinus roxburghii (chir pine),steep,24,0
+1218,Site 1,Dalbergia sissoo (shisham),gentle,1,1
+1219,Site 6,Eucalyptus camaldulensis,gentle,24,0
+1220,Site 8,Pinus roxburghii (chir pine),gentle,12,1
+1221,Site 4,Dalbergia sissoo (shisham),steep,1,1
+1222,Site 1,Morus alba (mulberry),steep,3,0
+1223,Site 4,Morus alba (mulberry),gentle,18,0
+1224,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+1225,Site 8,Dalbergia sissoo (shisham),gentle,3,1
+1226,Site 1,Dalbergia sissoo (shisham),steep,24,0
+1227,Site 4,Morus alba (mulberry),steep,24,0
+1228,Site 8,Pinus roxburghii (chir pine),steep,24,0
+1229,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+1230,Site 1,Dalbergia sissoo (shisham),gentle,24,0
+1231,Site 1,Morus alba (mulberry),steep,24,1
+1232,Site 2,Pinus roxburghii (chir pine),gentle,3,0
+1233,Site 7,Morus alba (mulberry),gentle,6,1
+1234,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+1235,Site 6,Eucalyptus camaldulensis,gentle,6,1
+1236,Site 2,Dalbergia sissoo (shisham),steep,24,0
+1237,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+1238,Site 1,Dalbergia sissoo (shisham),gentle,24,0
+1239,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+1240,Site 3,Morus alba (mulberry),steep,24,0
+1241,Site 2,Dalbergia sissoo (shisham),steep,24,0
+1242,Site 1,Pinus roxburghii (chir pine),steep,18,0
+1243,Site 3,Dalbergia sissoo (shisham),steep,24,0
+1244,Site 5,Dalbergia sissoo (shisham),gentle,12,1
+1245,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+1246,Site 6,Dalbergia sissoo (shisham),steep,24,0
+1247,Site 8,Morus alba (mulberry),gentle,3,1
+1248,Site 4,Pinus roxburghii (chir pine),steep,24,0
+1249,Site 2,Pinus roxburghii (chir pine),steep,24,0
+1250,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+1251,Site 5,Dalbergia sissoo (shisham),steep,12,1
+1252,Site 2,Morus alba (mulberry),steep,12,1
+1253,Site 1,Pinus roxburghii (chir pine),steep,24,0
+1254,Site 4,Dalbergia sissoo (shisham),gentle,24,1
+1255,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+1256,Site 6,Morus alba (mulberry),steep,6,0
+1257,Site 5,Eucalyptus camaldulensis,gentle,24,0
+1258,Site 8,Eucalyptus camaldulensis,steep,24,0
+1259,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+1260,Site 5,Pinus roxburghii (chir pine),steep,24,0
+1261,Site 5,Morus alba (mulberry),steep,24,0
+1262,Site 8,Pinus roxburghii (chir pine),gentle,12,1
+1263,Site 2,Morus alba (mulberry),gentle,24,0
+1264,Site 4,Dalbergia sissoo (shisham),steep,12,1
+1265,Site 6,Morus alba (mulberry),gentle,12,1
+1266,Site 5,Morus alba (mulberry),steep,24,0
+1267,Site 1,Dalbergia sissoo (shisham),steep,24,1
+1268,Site 6,Dalbergia sissoo (shisham),gentle,18,1
+1269,Site 3,Pinus roxburghii (chir pine),steep,24,0
+1270,Site 1,Morus alba (mulberry),gentle,24,0
+1271,Site 4,Dalbergia sissoo (shisham),steep,24,0
+1272,Site 7,Pinus roxburghii (chir pine),steep,12,1
+1273,Site 7,Dalbergia sissoo (shisham),gentle,24,1
+1274,Site 7,Dalbergia sissoo (shisham),gentle,3,1
+1275,Site 5,Eucalyptus camaldulensis,steep,1,1
+1276,Site 1,Pinus roxburghii (chir pine),gentle,18,1
+1277,Site 4,Dalbergia sissoo (shisham),steep,24,0
+1278,Site 6,Morus alba (mulberry),gentle,24,0
+1279,Site 1,Dalbergia sissoo (shisham),steep,18,1
+1280,Site 4,Morus alba (mulberry),gentle,18,0
+1281,Site 8,Dalbergia sissoo (shisham),steep,1,1
+1282,Site 2,Dalbergia sissoo (shisham),steep,24,0
+1283,Site 6,Dalbergia sissoo (shisham),gentle,24,0
+1284,Site 2,Eucalyptus camaldulensis,steep,24,0
+1285,Site 2,Dalbergia sissoo (shisham),steep,12,0
+1286,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+1287,Site 3,Pinus roxburghii (chir pine),gentle,18,1
+1288,Site 8,Pinus roxburghii (chir pine),steep,24,0
+1289,Site 7,Dalbergia sissoo (shisham),gentle,6,1
+1290,Site 7,Dalbergia sissoo (shisham),gentle,24,0
+1291,Site 8,Dalbergia sissoo (shisham),steep,3,1
+1292,Site 6,Morus alba (mulberry),gentle,24,0
+1293,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+1294,Site 2,Eucalyptus camaldulensis,gentle,24,0
+1295,Site 7,Morus alba (mulberry),gentle,12,1
+1296,Site 6,Morus alba (mulberry),gentle,24,0
+1297,Site 7,Dalbergia sissoo (shisham),steep,24,1
+1298,Site 3,Pinus roxburghii (chir pine),gentle,12,1
+1299,Site 8,Dalbergia sissoo (shisham),gentle,18,1
+1300,Site 5,Morus alba (mulberry),gentle,24,0
+1301,Site 1,Pinus roxburghii (chir pine),steep,24,0
+1302,Site 1,Pinus roxburghii (chir pine),gentle,12,1
+1303,Site 5,Pinus roxburghii (chir pine),steep,24,0
+1304,Site 8,Eucalyptus camaldulensis,steep,24,1
+1305,Site 4,Pinus roxburghii (chir pine),steep,18,1
+1306,Site 3,Dalbergia sissoo (shisham),steep,24,0
+1307,Site 1,Morus alba (mulberry),gentle,12,1
+1308,Site 6,Pinus roxburghii (chir pine),gentle,24,1
+1309,Site 7,Eucalyptus camaldulensis,steep,18,0
+1310,Site 1,Pinus roxburghii (chir pine),gentle,24,0
+1311,Site 5,Pinus roxburghii (chir pine),steep,24,0
+1312,Site 2,Eucalyptus camaldulensis,gentle,24,0
+1313,Site 8,Pinus roxburghii (chir pine),steep,6,1
+1314,Site 7,Eucalyptus camaldulensis,gentle,24,0
+1315,Site 2,Eucalyptus camaldulensis,steep,24,0
+1316,Site 6,Pinus roxburghii (chir pine),steep,24,0
+1317,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+1318,Site 5,Eucalyptus camaldulensis,gentle,24,0
+1319,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+1320,Site 4,Eucalyptus camaldulensis,gentle,1,1
+1321,Site 7,Eucalyptus camaldulensis,gentle,24,0
+1322,Site 6,Dalbergia sissoo (shisham),gentle,12,1
+1323,Site 7,Pinus roxburghii (chir pine),steep,24,0
+1324,Site 8,Pinus roxburghii (chir pine),gentle,18,1
+1325,Site 1,Morus alba (mulberry),gentle,24,0
+1326,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+1327,Site 7,Morus alba (mulberry),gentle,24,0
+1328,Site 7,Dalbergia sissoo (shisham),steep,24,0
+1329,Site 5,Eucalyptus camaldulensis,gentle,24,0
+1330,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+1331,Site 2,Eucalyptus camaldulensis,steep,24,0
+1332,Site 4,Pinus roxburghii (chir pine),steep,3,0
+1333,Site 6,Morus alba (mulberry),steep,6,1
+1334,Site 8,Dalbergia sissoo (shisham),steep,24,1
+1335,Site 1,Morus alba (mulberry),steep,3,1
+1336,Site 3,Eucalyptus camaldulensis,gentle,24,0
+1337,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+1338,Site 5,Pinus roxburghii (chir pine),gentle,3,1
+1339,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+1340,Site 2,Eucalyptus camaldulensis,gentle,24,0
+1341,Site 5,Morus alba (mulberry),gentle,24,0
+1342,Site 4,Dalbergia sissoo (shisham),gentle,24,0
+1343,Site 2,Pinus roxburghii (chir pine),steep,24,0
+1344,Site 2,Morus alba (mulberry),steep,6,1
+1345,Site 7,Eucalyptus camaldulensis,steep,24,0
+1346,Site 8,Morus alba (mulberry),steep,24,0
+1347,Site 4,Eucalyptus camaldulensis,steep,24,0
+1348,Site 8,Eucalyptus camaldulensis,steep,24,0
+1349,Site 1,Morus alba (mulberry),steep,24,0
+1350,Site 3,Pinus roxburghii (chir pine),gentle,6,1
+1351,Site 4,Dalbergia sissoo (shisham),steep,18,1
+1352,Site 7,Dalbergia sissoo (shisham),gentle,6,1
+1353,Site 4,Eucalyptus camaldulensis,gentle,24,0
+1354,Site 7,Morus alba (mulberry),gentle,24,1
+1355,Site 2,Pinus roxburghii (chir pine),steep,18,1
+1356,Site 8,Morus alba (mulberry),steep,18,1
+1357,Site 8,Eucalyptus camaldulensis,steep,24,0
+1358,Site 6,Dalbergia sissoo (shisham),steep,24,0
+1359,Site 4,Eucalyptus camaldulensis,steep,24,0
+1360,Site 2,Dalbergia sissoo (shisham),gentle,24,1
+1361,Site 2,Morus alba (mulberry),gentle,24,0
+1362,Site 6,Pinus roxburghii (chir pine),gentle,24,1
+1363,Site 2,Pinus roxburghii (chir pine),steep,24,0
+1364,Site 3,Morus alba (mulberry),gentle,24,0
+1365,Site 7,Morus alba (mulberry),gentle,6,1
+1366,Site 4,Eucalyptus camaldulensis,gentle,24,0
+1367,Site 1,Eucalyptus camaldulensis,gentle,24,0
+1368,Site 1,Eucalyptus camaldulensis,gentle,12,1
+1369,Site 1,Dalbergia sissoo (shisham),steep,24,0
+1370,Site 1,Dalbergia sissoo (shisham),steep,24,0
+1371,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+1372,Site 8,Eucalyptus camaldulensis,gentle,24,0
+1373,Site 3,Pinus roxburghii (chir pine),steep,24,0
+1374,Site 4,Eucalyptus camaldulensis,steep,24,0
+1375,Site 8,Morus alba (mulberry),gentle,24,0
+1376,Site 4,Dalbergia sissoo (shisham),steep,24,0
+1377,Site 3,Dalbergia sissoo (shisham),gentle,3,0
+1378,Site 6,Pinus roxburghii (chir pine),steep,24,0
+1379,Site 7,Dalbergia sissoo (shisham),gentle,12,1
+1380,Site 1,Eucalyptus camaldulensis,gentle,12,1
+1381,Site 5,Morus alba (mulberry),steep,12,0
+1382,Site 6,Eucalyptus camaldulensis,steep,24,0
+1383,Site 4,Eucalyptus camaldulensis,steep,6,0
+1384,Site 6,Morus alba (mulberry),steep,24,1
+1385,Site 4,Morus alba (mulberry),steep,24,0
+1386,Site 1,Eucalyptus camaldulensis,gentle,12,1
+1387,Site 7,Pinus roxburghii (chir pine),steep,24,0
+1388,Site 7,Dalbergia sissoo (shisham),gentle,24,0
+1389,Site 3,Morus alba (mulberry),steep,18,1
+1390,Site 5,Morus alba (mulberry),gentle,24,0
+1391,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+1392,Site 5,Pinus roxburghii (chir pine),gentle,12,1
+1393,Site 1,Dalbergia sissoo (shisham),gentle,24,0
+1394,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+1395,Site 4,Eucalyptus camaldulensis,gentle,24,0
+1396,Site 1,Eucalyptus camaldulensis,gentle,18,1
+1397,Site 8,Pinus roxburghii (chir pine),steep,24,0
+1398,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+1399,Site 8,Dalbergia sissoo (shisham),steep,24,0
+1400,Site 2,Pinus roxburghii (chir pine),steep,24,0
+1401,Site 3,Morus alba (mulberry),steep,24,0
+1402,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+1403,Site 1,Morus alba (mulberry),steep,12,0
+1404,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+1405,Site 2,Eucalyptus camaldulensis,gentle,24,0
+1406,Site 8,Morus alba (mulberry),steep,24,1
+1407,Site 4,Eucalyptus camaldulensis,steep,24,0
+1408,Site 2,Morus alba (mulberry),steep,18,0
+1409,Site 6,Eucalyptus camaldulensis,steep,6,1
+1410,Site 7,Eucalyptus camaldulensis,steep,24,0
+1411,Site 5,Eucalyptus camaldulensis,steep,6,1
+1412,Site 6,Morus alba (mulberry),steep,24,0
+1413,Site 3,Morus alba (mulberry),steep,24,0
+1414,Site 4,Morus alba (mulberry),steep,18,1
+1415,Site 1,Eucalyptus camaldulensis,steep,24,0
+1416,Site 6,Morus alba (mulberry),steep,24,0
+1417,Site 8,Morus alba (mulberry),steep,24,0
+1418,Site 2,Morus alba (mulberry),steep,24,1
+1419,Site 8,Pinus roxburghii (chir pine),gentle,24,0
+1420,Site 6,Pinus roxburghii (chir pine),steep,24,1
+1421,Site 6,Morus alba (mulberry),gentle,1,0
+1422,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+1423,Site 1,Morus alba (mulberry),gentle,24,0
+1424,Site 5,Morus alba (mulberry),gentle,18,0
+1425,Site 5,Dalbergia sissoo (shisham),gentle,12,1
+1426,Site 6,Pinus roxburghii (chir pine),steep,24,0
+1427,Site 1,Dalbergia sissoo (shisham),steep,24,0
+1428,Site 2,Dalbergia sissoo (shisham),gentle,24,0
+1429,Site 5,Morus alba (mulberry),gentle,24,0
+1430,Site 8,Morus alba (mulberry),steep,3,1
+1431,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+1432,Site 1,Morus alba (mulberry),steep,6,0
+1433,Site 4,Pinus roxburghii (chir pine),gentle,18,1
+1434,Site 8,Pinus roxburghii (chir pine),steep,24,0
+1435,Site 1,Morus alba (mulberry),gentle,24,0
+1436,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+1437,Site 8,Morus alba (mulberry),gentle,24,0
+1438,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+1439,Site 3,Morus alba (mulberry),gentle,18,1
+1440,Site 4,Morus alba (mulberry),steep,24,0
+1441,Site 8,Dalbergia sissoo (shisham),gentle,24,1
+1442,Site 7,Morus alba (mulberry),gentle,24,0
+1443,Site 1,Pinus roxburghii (chir pine),steep,24,0
+1444,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+1445,Site 7,Morus alba (mulberry),gentle,24,0
+1446,Site 8,Dalbergia sissoo (shisham),steep,24,0
+1447,Site 3,Eucalyptus camaldulensis,gentle,24,0
+1448,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+1449,Site 4,Morus alba (mulberry),gentle,6,1
+1450,Site 1,Morus alba (mulberry),gentle,24,0
+1451,Site 5,Pinus roxburghii (chir pine),steep,6,1
+1452,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+1453,Site 6,Dalbergia sissoo (shisham),steep,6,1
+1454,Site 1,Eucalyptus camaldulensis,steep,6,0
+1455,Site 5,Eucalyptus camaldulensis,gentle,24,0
+1456,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+1457,Site 6,Morus alba (mulberry),steep,24,0
+1458,Site 1,Morus alba (mulberry),gentle,6,0
+1459,Site 5,Pinus roxburghii (chir pine),gentle,12,1
+1460,Site 4,Morus alba (mulberry),gentle,24,0
+1461,Site 2,Dalbergia sissoo (shisham),gentle,18,1
+1462,Site 7,Eucalyptus camaldulensis,steep,1,0
+1463,Site 3,Pinus roxburghii (chir pine),steep,24,0
+1464,Site 1,Morus alba (mulberry),gentle,18,1
+1465,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+1466,Site 3,Eucalyptus camaldulensis,steep,24,0
+1467,Site 7,Eucalyptus camaldulensis,steep,24,0
+1468,Site 1,Morus alba (mulberry),gentle,3,1
+1469,Site 6,Morus alba (mulberry),steep,24,0
+1470,Site 3,Pinus roxburghii (chir pine),steep,24,0
+1471,Site 3,Morus alba (mulberry),gentle,24,1
+1472,Site 4,Dalbergia sissoo (shisham),gentle,24,1
+1473,Site 7,Eucalyptus camaldulensis,gentle,24,0
+1474,Site 1,Morus alba (mulberry),steep,24,0
+1475,Site 1,Morus alba (mulberry),steep,24,0
+1476,Site 3,Dalbergia sissoo (shisham),steep,6,1
+1477,Site 3,Pinus roxburghii (chir pine),steep,24,0
+1478,Site 6,Morus alba (mulberry),steep,24,0
+1479,Site 8,Morus alba (mulberry),gentle,24,0
+1480,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+1481,Site 8,Eucalyptus camaldulensis,gentle,24,0
+1482,Site 1,Morus alba (mulberry),steep,24,1
+1483,Site 7,Eucalyptus camaldulensis,gentle,24,0
+1484,Site 4,Dalbergia sissoo (shisham),steep,3,1
+1485,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+1486,Site 1,Eucalyptus camaldulensis,gentle,24,0
+1487,Site 7,Morus alba (mulberry),gentle,3,1
+1488,Site 2,Pinus roxburghii (chir pine),steep,24,0
+1489,Site 6,Dalbergia sissoo (shisham),steep,24,0
+1490,Site 4,Dalbergia sissoo (shisham),steep,3,0
+1491,Site 6,Pinus roxburghii (chir pine),steep,24,0
+1492,Site 2,Eucalyptus camaldulensis,gentle,24,0
+1493,Site 8,Eucalyptus camaldulensis,steep,24,0
+1494,Site 5,Dalbergia sissoo (shisham),steep,24,0
+1495,Site 5,Morus alba (mulberry),gentle,24,0
+1496,Site 1,Dalbergia sissoo (shisham),gentle,24,0
+1497,Site 6,Dalbergia sissoo (shisham),steep,24,0
+1498,Site 7,Dalbergia sissoo (shisham),gentle,24,0
+1499,Site 7,Morus alba (mulberry),steep,18,1
+1500,Site 7,Pinus roxburghii (chir pine),steep,24,0
+1501,Site 6,Morus alba (mulberry),steep,6,1
+1502,Site 7,Dalbergia sissoo (shisham),steep,24,0
+1503,Site 4,Eucalyptus camaldulensis,gentle,24,0
+1504,Site 7,Eucalyptus camaldulensis,gentle,24,0
+1505,Site 6,Morus alba (mulberry),gentle,24,0
+1506,Site 5,Eucalyptus camaldulensis,gentle,24,0
+1507,Site 2,Pinus roxburghii (chir pine),steep,24,0
+1508,Site 7,Dalbergia sissoo (shisham),gentle,12,1
+1509,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+1510,Site 1,Morus alba (mulberry),steep,6,1
+1511,Site 4,Eucalyptus camaldulensis,gentle,24,0
+1512,Site 1,Eucalyptus camaldulensis,gentle,24,0
+1513,Site 6,Dalbergia sissoo (shisham),steep,24,0
+1514,Site 3,Eucalyptus camaldulensis,steep,24,0
+1515,Site 4,Eucalyptus camaldulensis,gentle,24,0
+1516,Site 8,Pinus roxburghii (chir pine),gentle,24,0
+1517,Site 3,Dalbergia sissoo (shisham),steep,24,0
+1518,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+1519,Site 4,Dalbergia sissoo (shisham),gentle,24,0
+1520,Site 5,Eucalyptus camaldulensis,steep,1,0
+1521,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+1522,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+1523,Site 2,Eucalyptus camaldulensis,steep,24,0
+1524,Site 5,Eucalyptus camaldulensis,gentle,24,0
+1525,Site 6,Eucalyptus camaldulensis,steep,24,0
+1526,Site 7,Morus alba (mulberry),gentle,24,1
+1527,Site 4,Pinus roxburghii (chir pine),steep,24,0
+1528,Site 5,Eucalyptus camaldulensis,steep,24,0
+1529,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+1530,Site 1,Pinus roxburghii (chir pine),gentle,24,0
+1531,Site 7,Eucalyptus camaldulensis,gentle,24,0
+1532,Site 3,Eucalyptus camaldulensis,steep,24,0
+1533,Site 3,Eucalyptus camaldulensis,gentle,24,0
+1534,Site 4,Eucalyptus camaldulensis,steep,24,0
+1535,Site 1,Morus alba (mulberry),steep,24,0
+1536,Site 1,Pinus roxburghii (chir pine),steep,18,1
+1537,Site 1,Dalbergia sissoo (shisham),gentle,24,0
+1538,Site 1,Morus alba (mulberry),steep,24,0
+1539,Site 7,Morus alba (mulberry),gentle,24,0
+1540,Site 6,Pinus roxburghii (chir pine),steep,6,1
+1541,Site 5,Eucalyptus camaldulensis,gentle,24,1
+1542,Site 1,Eucalyptus camaldulensis,gentle,24,0
+1543,Site 6,Eucalyptus camaldulensis,gentle,24,0
+1544,Site 3,Dalbergia sissoo (shisham),steep,12,1
+1545,Site 4,Dalbergia sissoo (shisham),gentle,24,0
+1546,Site 5,Morus alba (mulberry),gentle,3,1
+1547,Site 6,Morus alba (mulberry),gentle,24,1
+1548,Site 7,Eucalyptus camaldulensis,gentle,24,0
+1549,Site 1,Eucalyptus camaldulensis,gentle,24,0
+1550,Site 3,Pinus roxburghii (chir pine),steep,6,1
+1551,Site 6,Eucalyptus camaldulensis,gentle,24,0
+1552,Site 1,Eucalyptus camaldulensis,steep,24,0
+1553,Site 1,Pinus roxburghii (chir pine),gentle,24,0
+1554,Site 8,Pinus roxburghii (chir pine),gentle,1,1
+1555,Site 2,Eucalyptus camaldulensis,steep,24,0
+1556,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+1557,Site 3,Eucalyptus camaldulensis,steep,3,1
+1558,Site 7,Dalbergia sissoo (shisham),gentle,1,1
+1559,Site 2,Pinus roxburghii (chir pine),gentle,24,1
+1560,Site 6,Dalbergia sissoo (shisham),steep,18,1
+1561,Site 8,Eucalyptus camaldulensis,steep,24,0
+1562,Site 6,Morus alba (mulberry),steep,12,1
+1563,Site 7,Eucalyptus camaldulensis,gentle,24,0
+1564,Site 1,Pinus roxburghii (chir pine),gentle,24,0
+1565,Site 2,Dalbergia sissoo (shisham),gentle,24,1
+1566,Site 2,Morus alba (mulberry),gentle,24,0
+1567,Site 6,Dalbergia sissoo (shisham),steep,24,0
+1568,Site 8,Eucalyptus camaldulensis,gentle,24,0
+1569,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+1570,Site 3,Eucalyptus camaldulensis,gentle,24,0
+1571,Site 1,Dalbergia sissoo (shisham),gentle,24,0
+1572,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+1573,Site 1,Morus alba (mulberry),steep,24,0
+1574,Site 6,Dalbergia sissoo (shisham),steep,24,0
+1575,Site 1,Pinus roxburghii (chir pine),steep,24,0
+1576,Site 5,Morus alba (mulberry),gentle,24,0
+1577,Site 5,Dalbergia sissoo (shisham),steep,24,0
+1578,Site 1,Morus alba (mulberry),gentle,24,0
+1579,Site 2,Eucalyptus camaldulensis,gentle,24,0
+1580,Site 5,Eucalyptus camaldulensis,gentle,24,1
+1581,Site 2,Morus alba (mulberry),gentle,24,0
+1582,Site 4,Morus alba (mulberry),gentle,24,0
+1583,Site 5,Morus alba (mulberry),steep,24,0
+1584,Site 3,Dalbergia sissoo (shisham),steep,18,1
+1585,Site 1,Dalbergia sissoo (shisham),steep,24,0
+1586,Site 4,Dalbergia sissoo (shisham),gentle,24,0
+1587,Site 3,Dalbergia sissoo (shisham),steep,24,1
+1588,Site 5,Morus alba (mulberry),gentle,24,0
+1589,Site 1,Pinus roxburghii (chir pine),gentle,24,0
+1590,Site 1,Morus alba (mulberry),gentle,24,0
+1591,Site 4,Dalbergia sissoo (shisham),gentle,24,0
+1592,Site 4,Pinus roxburghii (chir pine),steep,24,0
+1593,Site 1,Morus alba (mulberry),gentle,24,0
+1594,Site 2,Dalbergia sissoo (shisham),gentle,3,0
+1595,Site 2,Pinus roxburghii (chir pine),gentle,18,1
+1596,Site 5,Pinus roxburghii (chir pine),steep,6,0
+1597,Site 2,Morus alba (mulberry),steep,24,0
+1598,Site 2,Dalbergia sissoo (shisham),steep,24,0
+1599,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+1600,Site 4,Dalbergia sissoo (shisham),steep,24,0
+1601,Site 3,Dalbergia sissoo (shisham),steep,24,1
+1602,Site 4,Pinus roxburghii (chir pine),gentle,24,1
+1603,Site 1,Morus alba (mulberry),gentle,24,0
+1604,Site 2,Morus alba (mulberry),steep,24,0
+1605,Site 6,Dalbergia sissoo (shisham),gentle,12,0
+1606,Site 2,Morus alba (mulberry),gentle,24,0
+1607,Site 5,Pinus roxburghii (chir pine),gentle,24,1
+1608,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+1609,Site 7,Dalbergia sissoo (shisham),steep,3,0
+1610,Site 5,Eucalyptus camaldulensis,steep,1,0
+1611,Site 1,Pinus roxburghii (chir pine),steep,24,0
+1612,Site 8,Pinus roxburghii (chir pine),gentle,24,0
+1613,Site 3,Eucalyptus camaldulensis,gentle,24,0
+1614,Site 6,Pinus roxburghii (chir pine),steep,24,0
+1615,Site 2,Dalbergia sissoo (shisham),steep,3,1
+1616,Site 5,Morus alba (mulberry),steep,24,1
+1617,Site 4,Dalbergia sissoo (shisham),gentle,6,1
+1618,Site 8,Morus alba (mulberry),gentle,24,1
+1619,Site 4,Morus alba (mulberry),gentle,24,0
+1620,Site 8,Eucalyptus camaldulensis,steep,24,0
+1621,Site 7,Dalbergia sissoo (shisham),gentle,3,1
+1622,Site 5,Eucalyptus camaldulensis,gentle,24,0
+1623,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+1624,Site 4,Morus alba (mulberry),steep,18,1
+1625,Site 4,Eucalyptus camaldulensis,steep,24,0
+1626,Site 8,Eucalyptus camaldulensis,gentle,24,0
+1627,Site 1,Morus alba (mulberry),gentle,24,0
+1628,Site 3,Morus alba (mulberry),gentle,24,0
+1629,Site 3,Pinus roxburghii (chir pine),gentle,24,1
+1630,Site 7,Morus alba (mulberry),gentle,24,1
+1631,Site 8,Pinus roxburghii (chir pine),gentle,24,0
+1632,Site 2,Morus alba (mulberry),gentle,24,0
+1633,Site 4,Eucalyptus camaldulensis,gentle,24,0
+1634,Site 2,Eucalyptus camaldulensis,gentle,18,1
+1635,Site 5,Morus alba (mulberry),gentle,24,0
+1636,Site 3,Dalbergia sissoo (shisham),gentle,12,0
+1637,Site 2,Eucalyptus camaldulensis,gentle,24,0
+1638,Site 5,Dalbergia sissoo (shisham),steep,6,1
+1639,Site 8,Dalbergia sissoo (shisham),steep,6,1
+1640,Site 3,Dalbergia sissoo (shisham),steep,24,0
+1641,Site 5,Morus alba (mulberry),gentle,24,0
+1642,Site 2,Morus alba (mulberry),steep,24,0
+1643,Site 8,Dalbergia sissoo (shisham),steep,24,0
+1644,Site 1,Pinus roxburghii (chir pine),gentle,24,0
+1645,Site 3,Morus alba (mulberry),steep,24,0
+1646,Site 1,Morus alba (mulberry),gentle,24,0
+1647,Site 5,Dalbergia sissoo (shisham),gentle,6,1
+1648,Site 8,Pinus roxburghii (chir pine),steep,24,0
+1649,Site 3,Pinus roxburghii (chir pine),steep,24,0
+1650,Site 7,Dalbergia sissoo (shisham),gentle,12,0
+1651,Site 6,Morus alba (mulberry),steep,24,0
+1652,Site 7,Dalbergia sissoo (shisham),steep,24,0
+1653,Site 4,Eucalyptus camaldulensis,gentle,24,0
+1654,Site 6,Morus alba (mulberry),steep,24,0
+1655,Site 5,Eucalyptus camaldulensis,gentle,24,0
+1656,Site 5,Morus alba (mulberry),steep,12,1
+1657,Site 6,Pinus roxburghii (chir pine),steep,24,1
+1658,Site 4,Morus alba (mulberry),steep,12,1
+1659,Site 7,Pinus roxburghii (chir pine),steep,1,0
+1660,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+1661,Site 8,Eucalyptus camaldulensis,gentle,18,1
+1662,Site 4,Dalbergia sissoo (shisham),gentle,12,1
+1663,Site 1,Eucalyptus camaldulensis,gentle,24,0
+1664,Site 8,Morus alba (mulberry),gentle,24,0
+1665,Site 8,Pinus roxburghii (chir pine),gentle,12,1
+1666,Site 2,Dalbergia sissoo (shisham),steep,24,0
+1667,Site 3,Pinus roxburghii (chir pine),steep,24,0
+1668,Site 4,Eucalyptus camaldulensis,gentle,24,0
+1669,Site 6,Eucalyptus camaldulensis,gentle,24,0
+1670,Site 7,Morus alba (mulberry),gentle,24,0
+1671,Site 6,Dalbergia sissoo (shisham),steep,24,1
+1672,Site 5,Morus alba (mulberry),steep,3,1
+1673,Site 5,Eucalyptus camaldulensis,gentle,12,1
+1674,Site 7,Morus alba (mulberry),gentle,12,1
+1675,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+1676,Site 6,Eucalyptus camaldulensis,gentle,24,0
+1677,Site 7,Eucalyptus camaldulensis,gentle,24,0
+1678,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+1679,Site 3,Pinus roxburghii (chir pine),gentle,18,1
+1680,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+1681,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+1682,Site 1,Pinus roxburghii (chir pine),gentle,12,1
+1683,Site 2,Dalbergia sissoo (shisham),gentle,24,0
+1684,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+1685,Site 5,Dalbergia sissoo (shisham),steep,24,0
+1686,Site 8,Pinus roxburghii (chir pine),steep,3,1
+1687,Site 7,Eucalyptus camaldulensis,gentle,24,0
+1688,Site 1,Eucalyptus camaldulensis,gentle,12,1
+1689,Site 2,Morus alba (mulberry),steep,24,0
+1690,Site 8,Pinus roxburghii (chir pine),gentle,24,0
+1691,Site 5,Morus alba (mulberry),steep,12,1
+1692,Site 7,Dalbergia sissoo (shisham),gentle,24,0
+1693,Site 4,Morus alba (mulberry),steep,24,0
+1694,Site 7,Eucalyptus camaldulensis,gentle,24,0
+1695,Site 3,Pinus roxburghii (chir pine),steep,24,0
+1696,Site 2,Dalbergia sissoo (shisham),steep,24,0
+1697,Site 2,Morus alba (mulberry),steep,24,1
+1698,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+1699,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+1700,Site 8,Dalbergia sissoo (shisham),steep,24,0
+1701,Site 6,Morus alba (mulberry),gentle,24,0
+1702,Site 3,Dalbergia sissoo (shisham),steep,24,0
+1703,Site 2,Eucalyptus camaldulensis,steep,18,1
+1704,Site 2,Dalbergia sissoo (shisham),gentle,12,1
+1705,Site 6,Morus alba (mulberry),steep,18,1
+1706,Site 2,Dalbergia sissoo (shisham),steep,18,1
+1707,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+1708,Site 3,Dalbergia sissoo (shisham),gentle,6,1
+1709,Site 5,Eucalyptus camaldulensis,gentle,24,0
+1710,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+1711,Site 2,Pinus roxburghii (chir pine),gentle,12,0
+1712,Site 1,Eucalyptus camaldulensis,gentle,24,0
+1713,Site 6,Dalbergia sissoo (shisham),steep,24,0
+1714,Site 2,Eucalyptus camaldulensis,steep,24,0
+1715,Site 8,Morus alba (mulberry),steep,1,0
+1716,Site 3,Morus alba (mulberry),gentle,24,0
+1717,Site 8,Dalbergia sissoo (shisham),steep,12,1
+1718,Site 7,Pinus roxburghii (chir pine),steep,12,1
+1719,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+1720,Site 8,Eucalyptus camaldulensis,gentle,24,0
+1721,Site 8,Dalbergia sissoo (shisham),gentle,18,1
+1722,Site 1,Dalbergia sissoo (shisham),gentle,12,1
+1723,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+1724,Site 8,Dalbergia sissoo (shisham),steep,24,0
+1725,Site 6,Morus alba (mulberry),steep,24,0
+1726,Site 8,Dalbergia sissoo (shisham),steep,12,1
+1727,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+1728,Site 8,Eucalyptus camaldulensis,steep,24,0
+1729,Site 1,Morus alba (mulberry),gentle,24,0
+1730,Site 5,Morus alba (mulberry),steep,3,1
+1731,Site 6,Dalbergia sissoo (shisham),steep,24,0
+1732,Site 4,Dalbergia sissoo (shisham),gentle,24,0
+1733,Site 4,Dalbergia sissoo (shisham),steep,6,1
+1734,Site 2,Dalbergia sissoo (shisham),steep,3,1
+1735,Site 6,Eucalyptus camaldulensis,steep,24,0
+1736,Site 3,Dalbergia sissoo (shisham),steep,24,0
+1737,Site 3,Morus alba (mulberry),steep,24,0
+1738,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+1739,Site 6,Pinus roxburghii (chir pine),steep,24,0
+1740,Site 3,Morus alba (mulberry),gentle,24,0
+1741,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+1742,Site 4,Eucalyptus camaldulensis,gentle,24,1
+1743,Site 6,Morus alba (mulberry),steep,12,1
+1744,Site 1,Pinus roxburghii (chir pine),gentle,24,0
+1745,Site 3,Eucalyptus camaldulensis,steep,24,0
+1746,Site 2,Eucalyptus camaldulensis,gentle,24,0
+1747,Site 5,Pinus roxburghii (chir pine),gentle,18,1
+1748,Site 4,Eucalyptus camaldulensis,gentle,24,1
+1749,Site 5,Morus alba (mulberry),gentle,24,0
+1750,Site 1,Pinus roxburghii (chir pine),gentle,3,0
+1751,Site 6,Eucalyptus camaldulensis,gentle,24,0
+1752,Site 7,Eucalyptus camaldulensis,steep,18,1
+1753,Site 5,Morus alba (mulberry),steep,24,0
+1754,Site 6,Eucalyptus camaldulensis,gentle,24,0
+1755,Site 1,Dalbergia sissoo (shisham),gentle,24,0
+1756,Site 2,Morus alba (mulberry),gentle,24,0
+1757,Site 8,Morus alba (mulberry),steep,24,0
+1758,Site 7,Pinus roxburghii (chir pine),steep,24,0
+1759,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+1760,Site 8,Dalbergia sissoo (shisham),steep,24,0
+1761,Site 5,Dalbergia sissoo (shisham),steep,24,0
+1762,Site 7,Eucalyptus camaldulensis,gentle,24,0
+1763,Site 7,Eucalyptus camaldulensis,steep,24,0
+1764,Site 3,Morus alba (mulberry),steep,24,0
+1765,Site 1,Dalbergia sissoo (shisham),steep,24,1
+1766,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+1767,Site 1,Eucalyptus camaldulensis,gentle,24,0
+1768,Site 6,Eucalyptus camaldulensis,steep,12,1
+1769,Site 2,Dalbergia sissoo (shisham),gentle,24,0
+1770,Site 7,Dalbergia sissoo (shisham),steep,1,1
+1771,Site 2,Eucalyptus camaldulensis,gentle,24,0
+1772,Site 4,Pinus roxburghii (chir pine),steep,18,0
+1773,Site 4,Dalbergia sissoo (shisham),gentle,24,0
+1774,Site 3,Dalbergia sissoo (shisham),steep,3,0
+1775,Site 8,Morus alba (mulberry),steep,12,1
+1776,Site 4,Pinus roxburghii (chir pine),steep,24,0
+1777,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+1778,Site 1,Dalbergia sissoo (shisham),steep,18,1
+1779,Site 6,Eucalyptus camaldulensis,gentle,24,0
+1780,Site 7,Pinus roxburghii (chir pine),gentle,3,0
+1781,Site 2,Dalbergia sissoo (shisham),steep,24,0
+1782,Site 6,Eucalyptus camaldulensis,steep,24,0
+1783,Site 6,Dalbergia sissoo (shisham),steep,24,0
+1784,Site 5,Pinus roxburghii (chir pine),gentle,3,0
+1785,Site 2,Eucalyptus camaldulensis,steep,24,0
+1786,Site 5,Dalbergia sissoo (shisham),steep,24,0
+1787,Site 3,Morus alba (mulberry),steep,12,1
+1788,Site 8,Dalbergia sissoo (shisham),gentle,6,1
+1789,Site 3,Morus alba (mulberry),gentle,18,1
+1790,Site 1,Dalbergia sissoo (shisham),steep,24,1
+1791,Site 5,Eucalyptus camaldulensis,gentle,24,0
+1792,Site 8,Dalbergia sissoo (shisham),steep,24,0
+1793,Site 1,Dalbergia sissoo (shisham),gentle,24,0
+1794,Site 3,Eucalyptus camaldulensis,gentle,24,0
+1795,Site 5,Morus alba (mulberry),gentle,24,0
+1796,Site 5,Pinus roxburghii (chir pine),steep,24,0
+1797,Site 6,Morus alba (mulberry),gentle,24,0
+1798,Site 4,Eucalyptus camaldulensis,gentle,24,0
+1799,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+1800,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+1801,Site 3,Morus alba (mulberry),steep,24,1
+1802,Site 4,Eucalyptus camaldulensis,gentle,24,0
+1803,Site 8,Morus alba (mulberry),gentle,18,1
+1804,Site 5,Dalbergia sissoo (shisham),gentle,24,1
+1805,Site 4,Eucalyptus camaldulensis,gentle,24,1
+1806,Site 3,Pinus roxburghii (chir pine),steep,24,0
+1807,Site 1,Morus alba (mulberry),gentle,24,0
+1808,Site 2,Eucalyptus camaldulensis,steep,24,0
+1809,Site 7,Eucalyptus camaldulensis,gentle,24,0
+1810,Site 1,Pinus roxburghii (chir pine),steep,24,1
+1811,Site 1,Morus alba (mulberry),gentle,1,0
+1812,Site 3,Morus alba (mulberry),gentle,24,0
+1813,Site 2,Dalbergia sissoo (shisham),steep,24,1
+1814,Site 5,Eucalyptus camaldulensis,gentle,1,0
+1815,Site 3,Eucalyptus camaldulensis,gentle,24,0
+1816,Site 1,Pinus roxburghii (chir pine),gentle,24,0
+1817,Site 8,Pinus roxburghii (chir pine),steep,24,0
+1818,Site 1,Dalbergia sissoo (shisham),gentle,24,0
+1819,Site 4,Dalbergia sissoo (shisham),gentle,24,0
+1820,Site 8,Morus alba (mulberry),steep,24,0
+1821,Site 4,Dalbergia sissoo (shisham),steep,24,0
+1822,Site 1,Eucalyptus camaldulensis,steep,24,0
+1823,Site 7,Pinus roxburghii (chir pine),steep,12,1
+1824,Site 1,Eucalyptus camaldulensis,gentle,24,0
+1825,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+1826,Site 3,Dalbergia sissoo (shisham),steep,24,0
+1827,Site 8,Eucalyptus camaldulensis,steep,24,0
+1828,Site 6,Morus alba (mulberry),gentle,24,0
+1829,Site 6,Eucalyptus camaldulensis,steep,24,0
+1830,Site 6,Eucalyptus camaldulensis,steep,24,0
+1831,Site 2,Pinus roxburghii (chir pine),gentle,18,0
+1832,Site 5,Pinus roxburghii (chir pine),gentle,24,1
+1833,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+1834,Site 4,Eucalyptus camaldulensis,gentle,24,0
+1835,Site 5,Morus alba (mulberry),steep,3,1
+1836,Site 4,Eucalyptus camaldulensis,gentle,6,1
+1837,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+1838,Site 1,Pinus roxburghii (chir pine),steep,24,0
+1839,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+1840,Site 6,Morus alba (mulberry),gentle,24,0
+1841,Site 1,Morus alba (mulberry),gentle,24,0
+1842,Site 7,Morus alba (mulberry),gentle,24,0
+1843,Site 2,Morus alba (mulberry),gentle,24,0
+1844,Site 8,Morus alba (mulberry),gentle,24,0
+1845,Site 6,Morus alba (mulberry),steep,24,0
+1846,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+1847,Site 6,Dalbergia sissoo (shisham),steep,24,0
+1848,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+1849,Site 2,Morus alba (mulberry),steep,12,1
+1850,Site 3,Pinus roxburghii (chir pine),steep,24,0
+1851,Site 2,Pinus roxburghii (chir pine),steep,24,0
+1852,Site 6,Pinus roxburghii (chir pine),steep,24,0
+1853,Site 1,Dalbergia sissoo (shisham),gentle,24,0
+1854,Site 6,Dalbergia sissoo (shisham),gentle,24,0
+1855,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+1856,Site 2,Morus alba (mulberry),gentle,24,0
+1857,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+1858,Site 2,Morus alba (mulberry),gentle,24,0
+1859,Site 3,Morus alba (mulberry),steep,24,0
+1860,Site 8,Eucalyptus camaldulensis,steep,24,0
+1861,Site 2,Eucalyptus camaldulensis,gentle,24,0
+1862,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+1863,Site 4,Dalbergia sissoo (shisham),steep,24,0
+1864,Site 2,Dalbergia sissoo (shisham),gentle,24,1
+1865,Site 8,Morus alba (mulberry),steep,24,0
+1866,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+1867,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+1868,Site 4,Eucalyptus camaldulensis,gentle,24,0
+1869,Site 5,Morus alba (mulberry),gentle,24,0
+1870,Site 6,Morus alba (mulberry),steep,24,0
+1871,Site 3,Morus alba (mulberry),gentle,18,0
+1872,Site 7,Eucalyptus camaldulensis,steep,12,1
+1873,Site 4,Dalbergia sissoo (shisham),steep,18,1
+1874,Site 7,Eucalyptus camaldulensis,gentle,24,0
+1875,Site 5,Pinus roxburghii (chir pine),gentle,24,1
+1876,Site 1,Pinus roxburghii (chir pine),gentle,24,0
+1877,Site 3,Eucalyptus camaldulensis,gentle,6,1
+1878,Site 1,Morus alba (mulberry),gentle,24,0
+1879,Site 7,Eucalyptus camaldulensis,steep,24,0
+1880,Site 6,Dalbergia sissoo (shisham),steep,24,0
+1881,Site 8,Dalbergia sissoo (shisham),gentle,18,1
+1882,Site 6,Eucalyptus camaldulensis,steep,24,0
+1883,Site 4,Dalbergia sissoo (shisham),gentle,12,1
+1884,Site 1,Pinus roxburghii (chir pine),gentle,24,0
+1885,Site 8,Pinus roxburghii (chir pine),gentle,24,0
+1886,Site 5,Morus alba (mulberry),gentle,24,0
+1887,Site 6,Morus alba (mulberry),steep,12,1
+1888,Site 7,Morus alba (mulberry),gentle,24,0
+1889,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+1890,Site 7,Dalbergia sissoo (shisham),gentle,12,1
+1891,Site 6,Morus alba (mulberry),gentle,24,0
+1892,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+1893,Site 6,Eucalyptus camaldulensis,steep,24,1
+1894,Site 5,Morus alba (mulberry),gentle,24,0
+1895,Site 5,Eucalyptus camaldulensis,gentle,24,0
+1896,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+1897,Site 2,Dalbergia sissoo (shisham),steep,24,1
+1898,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+1899,Site 8,Dalbergia sissoo (shisham),steep,24,0
+1900,Site 6,Pinus roxburghii (chir pine),gentle,12,0
+1901,Site 8,Eucalyptus camaldulensis,gentle,24,0
+1902,Site 2,Dalbergia sissoo (shisham),gentle,24,0
+1903,Site 7,Dalbergia sissoo (shisham),gentle,18,1
+1904,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+1905,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+1906,Site 3,Morus alba (mulberry),steep,24,0
+1907,Site 3,Morus alba (mulberry),steep,12,1
+1908,Site 8,Morus alba (mulberry),steep,24,0
+1909,Site 3,Dalbergia sissoo (shisham),steep,18,1
+1910,Site 3,Morus alba (mulberry),steep,6,1
+1911,Site 5,Pinus roxburghii (chir pine),steep,24,0
+1912,Site 7,Dalbergia sissoo (shisham),gentle,12,1
+1913,Site 1,Eucalyptus camaldulensis,gentle,3,1
+1914,Site 7,Eucalyptus camaldulensis,steep,3,1
+1915,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+1916,Site 7,Morus alba (mulberry),steep,24,0
+1917,Site 8,Dalbergia sissoo (shisham),steep,6,1
+1918,Site 6,Morus alba (mulberry),gentle,12,1
+1919,Site 8,Pinus roxburghii (chir pine),gentle,24,0
+1920,Site 8,Eucalyptus camaldulensis,gentle,3,0
+1921,Site 1,Eucalyptus camaldulensis,gentle,24,0
+1922,Site 1,Eucalyptus camaldulensis,gentle,24,0
+1923,Site 1,Morus alba (mulberry),gentle,24,0
+1924,Site 3,Dalbergia sissoo (shisham),gentle,6,1
+1925,Site 4,Dalbergia sissoo (shisham),gentle,6,1
+1926,Site 8,Eucalyptus camaldulensis,gentle,24,0
+1927,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+1928,Site 5,Morus alba (mulberry),steep,24,0
+1929,Site 8,Morus alba (mulberry),steep,6,1
+1930,Site 3,Dalbergia sissoo (shisham),steep,24,0
+1931,Site 1,Dalbergia sissoo (shisham),gentle,3,1
+1932,Site 2,Dalbergia sissoo (shisham),gentle,24,0
+1933,Site 3,Pinus roxburghii (chir pine),steep,24,0
+1934,Site 3,Morus alba (mulberry),gentle,24,0
+1935,Site 7,Eucalyptus camaldulensis,gentle,24,0
+1936,Site 1,Dalbergia sissoo (shisham),steep,12,1
+1937,Site 6,Morus alba (mulberry),gentle,18,1
+1938,Site 6,Eucalyptus camaldulensis,steep,24,0
+1939,Site 4,Dalbergia sissoo (shisham),steep,3,1
+1940,Site 1,Dalbergia sissoo (shisham),gentle,24,0
+1941,Site 7,Morus alba (mulberry),gentle,24,1
+1942,Site 6,Morus alba (mulberry),gentle,24,0
+1943,Site 8,Morus alba (mulberry),steep,24,0
+1944,Site 1,Eucalyptus camaldulensis,gentle,24,0
+1945,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+1946,Site 2,Eucalyptus camaldulensis,gentle,24,0
+1947,Site 4,Pinus roxburghii (chir pine),gentle,12,1
+1948,Site 4,Morus alba (mulberry),gentle,24,0
+1949,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+1950,Site 1,Morus alba (mulberry),steep,12,1
+1951,Site 4,Pinus roxburghii (chir pine),steep,24,0
+1952,Site 1,Eucalyptus camaldulensis,gentle,24,0
+1953,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+1954,Site 8,Morus alba (mulberry),gentle,24,0
+1955,Site 7,Morus alba (mulberry),gentle,3,1
+1956,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+1957,Site 5,Eucalyptus camaldulensis,steep,24,0
+1958,Site 6,Eucalyptus camaldulensis,gentle,12,1
+1959,Site 1,Eucalyptus camaldulensis,gentle,24,0
+1960,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+1961,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+1962,Site 2,Pinus roxburghii (chir pine),steep,6,1
+1963,Site 1,Morus alba (mulberry),steep,24,0
+1964,Site 1,Dalbergia sissoo (shisham),steep,24,0
+1965,Site 1,Pinus roxburghii (chir pine),gentle,24,0
+1966,Site 2,Pinus roxburghii (chir pine),steep,3,0
+1967,Site 6,Eucalyptus camaldulensis,gentle,24,0
+1968,Site 4,Eucalyptus camaldulensis,gentle,24,0
+1969,Site 3,Morus alba (mulberry),steep,18,0
+1970,Site 7,Morus alba (mulberry),steep,24,0
+1971,Site 8,Dalbergia sissoo (shisham),gentle,12,1
+1972,Site 4,Eucalyptus camaldulensis,steep,24,0
+1973,Site 1,Eucalyptus camaldulensis,steep,24,0
+1974,Site 3,Morus alba (mulberry),gentle,24,0
+1975,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+1976,Site 1,Pinus roxburghii (chir pine),gentle,18,1
+1977,Site 6,Eucalyptus camaldulensis,gentle,24,0
+1978,Site 2,Eucalyptus camaldulensis,gentle,24,0
+1979,Site 1,Eucalyptus camaldulensis,gentle,12,1
+1980,Site 4,Eucalyptus camaldulensis,gentle,24,0
+1981,Site 6,Eucalyptus camaldulensis,steep,24,0
+1982,Site 3,Pinus roxburghii (chir pine),gentle,18,1
+1983,Site 8,Dalbergia sissoo (shisham),steep,24,1
+1984,Site 4,Eucalyptus camaldulensis,gentle,24,0
+1985,Site 8,Pinus roxburghii (chir pine),gentle,24,0
+1986,Site 5,Morus alba (mulberry),gentle,24,0
+1987,Site 7,Pinus roxburghii (chir pine),steep,24,0
+1988,Site 3,Pinus roxburghii (chir pine),steep,24,0
+1989,Site 2,Morus alba (mulberry),steep,24,0
+1990,Site 8,Dalbergia sissoo (shisham),steep,24,0
+1991,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+1992,Site 5,Morus alba (mulberry),gentle,24,0
+1993,Site 7,Pinus roxburghii (chir pine),steep,24,0
+1994,Site 8,Pinus roxburghii (chir pine),gentle,24,0
+1995,Site 1,Pinus roxburghii (chir pine),steep,18,1
+1996,Site 4,Morus alba (mulberry),steep,24,0
+1997,Site 5,Pinus roxburghii (chir pine),gentle,24,1
+1998,Site 5,Morus alba (mulberry),steep,1,1
+1999,Site 4,Dalbergia sissoo (shisham),steep,12,1
+2000,Site 8,Morus alba (mulberry),gentle,24,0
+2001,Site 4,Morus alba (mulberry),steep,24,0
+2002,Site 3,Pinus roxburghii (chir pine),steep,24,0
+2003,Site 2,Eucalyptus camaldulensis,gentle,24,0
+2004,Site 6,Eucalyptus camaldulensis,steep,24,0
+2005,Site 5,Morus alba (mulberry),steep,18,1
+2006,Site 7,Morus alba (mulberry),steep,6,1
+2007,Site 1,Morus alba (mulberry),gentle,24,0
+2008,Site 2,Morus alba (mulberry),gentle,12,1
+2009,Site 8,Eucalyptus camaldulensis,steep,24,0
+2010,Site 3,Morus alba (mulberry),gentle,24,1
+2011,Site 4,Eucalyptus camaldulensis,gentle,24,0
+2012,Site 3,Dalbergia sissoo (shisham),gentle,3,1
+2013,Site 3,Pinus roxburghii (chir pine),steep,24,0
+2014,Site 1,Morus alba (mulberry),gentle,24,0
+2015,Site 3,Morus alba (mulberry),steep,24,0
+2016,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+2017,Site 7,Pinus roxburghii (chir pine),steep,24,0
+2018,Site 3,Eucalyptus camaldulensis,gentle,24,0
+2019,Site 2,Morus alba (mulberry),steep,24,0
+2020,Site 7,Dalbergia sissoo (shisham),steep,24,0
+2021,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+2022,Site 8,Pinus roxburghii (chir pine),steep,24,0
+2023,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+2024,Site 1,Dalbergia sissoo (shisham),gentle,24,0
+2025,Site 6,Morus alba (mulberry),steep,24,0
+2026,Site 6,Dalbergia sissoo (shisham),gentle,24,0
+2027,Site 8,Eucalyptus camaldulensis,gentle,24,0
+2028,Site 6,Eucalyptus camaldulensis,steep,24,0
+2029,Site 2,Morus alba (mulberry),steep,12,1
+2030,Site 3,Dalbergia sissoo (shisham),steep,24,0
+2031,Site 1,Pinus roxburghii (chir pine),gentle,24,0
+2032,Site 7,Eucalyptus camaldulensis,gentle,24,0
+2033,Site 4,Morus alba (mulberry),steep,24,0
+2034,Site 4,Pinus roxburghii (chir pine),steep,24,0
+2035,Site 4,Eucalyptus camaldulensis,gentle,24,0
+2036,Site 1,Pinus roxburghii (chir pine),gentle,24,0
+2037,Site 2,Morus alba (mulberry),gentle,24,0
+2038,Site 1,Dalbergia sissoo (shisham),steep,24,0
+2039,Site 5,Eucalyptus camaldulensis,steep,24,0
+2040,Site 6,Morus alba (mulberry),gentle,24,0
+2041,Site 6,Eucalyptus camaldulensis,gentle,24,0
+2042,Site 8,Morus alba (mulberry),gentle,24,1
+2043,Site 6,Eucalyptus camaldulensis,gentle,24,0
+2044,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+2045,Site 1,Pinus roxburghii (chir pine),steep,24,0
+2046,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+2047,Site 4,Eucalyptus camaldulensis,gentle,24,0
+2048,Site 2,Eucalyptus camaldulensis,gentle,24,0
+2049,Site 8,Dalbergia sissoo (shisham),steep,24,0
+2050,Site 2,Pinus roxburghii (chir pine),steep,24,0
+2051,Site 6,Eucalyptus camaldulensis,steep,24,0
+2052,Site 7,Eucalyptus camaldulensis,steep,24,0
+2053,Site 7,Pinus roxburghii (chir pine),gentle,24,1
+2054,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+2055,Site 2,Pinus roxburghii (chir pine),steep,24,0
+2056,Site 6,Morus alba (mulberry),gentle,1,1
+2057,Site 6,Dalbergia sissoo (shisham),gentle,24,0
+2058,Site 5,Eucalyptus camaldulensis,gentle,24,0
+2059,Site 2,Pinus roxburghii (chir pine),steep,24,0
+2060,Site 4,Dalbergia sissoo (shisham),steep,24,1
+2061,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+2062,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+2063,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+2064,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+2065,Site 2,Morus alba (mulberry),steep,24,0
+2066,Site 8,Pinus roxburghii (chir pine),steep,24,0
+2067,Site 4,Morus alba (mulberry),gentle,24,0
+2068,Site 8,Pinus roxburghii (chir pine),steep,18,1
+2069,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+2070,Site 6,Dalbergia sissoo (shisham),gentle,24,0
+2071,Site 5,Pinus roxburghii (chir pine),steep,24,0
+2072,Site 3,Morus alba (mulberry),gentle,24,0
+2073,Site 2,Morus alba (mulberry),steep,12,1
+2074,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+2075,Site 2,Morus alba (mulberry),gentle,12,1
+2076,Site 3,Eucalyptus camaldulensis,gentle,6,1
+2077,Site 6,Morus alba (mulberry),steep,6,1
+2078,Site 8,Eucalyptus camaldulensis,steep,24,1
+2079,Site 8,Eucalyptus camaldulensis,steep,6,1
+2080,Site 6,Eucalyptus camaldulensis,steep,24,0
+2081,Site 6,Eucalyptus camaldulensis,gentle,24,0
+2082,Site 2,Eucalyptus camaldulensis,gentle,24,0
+2083,Site 4,Eucalyptus camaldulensis,gentle,24,0
+2084,Site 7,Dalbergia sissoo (shisham),gentle,24,0
+2085,Site 7,Pinus roxburghii (chir pine),steep,24,0
+2086,Site 7,Eucalyptus camaldulensis,gentle,1,0
+2087,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+2088,Site 8,Pinus roxburghii (chir pine),steep,18,1
+2089,Site 7,Dalbergia sissoo (shisham),gentle,3,0
+2090,Site 8,Pinus roxburghii (chir pine),steep,24,0
+2091,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+2092,Site 4,Pinus roxburghii (chir pine),steep,12,1
+2093,Site 7,Pinus roxburghii (chir pine),steep,24,0
+2094,Site 2,Dalbergia sissoo (shisham),steep,12,1
+2095,Site 6,Pinus roxburghii (chir pine),steep,24,0
+2096,Site 2,Morus alba (mulberry),steep,6,1
+2097,Site 5,Morus alba (mulberry),steep,24,0
+2098,Site 1,Pinus roxburghii (chir pine),steep,18,1
+2099,Site 7,Dalbergia sissoo (shisham),steep,24,0
+2100,Site 2,Dalbergia sissoo (shisham),steep,24,0
+2101,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+2102,Site 6,Morus alba (mulberry),gentle,12,0
+2103,Site 3,Pinus roxburghii (chir pine),gentle,12,1
+2104,Site 1,Eucalyptus camaldulensis,steep,24,0
+2105,Site 7,Dalbergia sissoo (shisham),gentle,24,0
+2106,Site 4,Morus alba (mulberry),steep,12,1
+2107,Site 2,Dalbergia sissoo (shisham),gentle,24,0
+2108,Site 6,Pinus roxburghii (chir pine),gentle,24,0
+2109,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+2110,Site 2,Pinus roxburghii (chir pine),steep,12,1
+2111,Site 1,Dalbergia sissoo (shisham),steep,6,1
+2112,Site 5,Morus alba (mulberry),gentle,18,0
+2113,Site 3,Eucalyptus camaldulensis,steep,24,0
+2114,Site 6,Eucalyptus camaldulensis,gentle,6,0
+2115,Site 8,Pinus roxburghii (chir pine),gentle,24,0
+2116,Site 5,Eucalyptus camaldulensis,gentle,24,0
+2117,Site 5,Morus alba (mulberry),steep,24,0
+2118,Site 1,Morus alba (mulberry),gentle,24,0
+2119,Site 6,Pinus roxburghii (chir pine),steep,24,1
+2120,Site 5,Pinus roxburghii (chir pine),gentle,12,1
+2121,Site 6,Pinus roxburghii (chir pine),steep,24,0
+2122,Site 1,Pinus roxburghii (chir pine),gentle,1,1
+2123,Site 8,Morus alba (mulberry),steep,24,0
+2124,Site 1,Pinus roxburghii (chir pine),gentle,12,1
+2125,Site 8,Eucalyptus camaldulensis,gentle,24,0
+2126,Site 7,Dalbergia sissoo (shisham),gentle,24,0
+2127,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+2128,Site 7,Morus alba (mulberry),gentle,24,0
+2129,Site 2,Dalbergia sissoo (shisham),gentle,18,1
+2130,Site 8,Pinus roxburghii (chir pine),steep,12,1
+2131,Site 4,Pinus roxburghii (chir pine),steep,24,0
+2132,Site 1,Morus alba (mulberry),gentle,24,0
+2133,Site 5,Morus alba (mulberry),gentle,3,1
+2134,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+2135,Site 7,Eucalyptus camaldulensis,steep,24,0
+2136,Site 2,Eucalyptus camaldulensis,gentle,24,0
+2137,Site 2,Morus alba (mulberry),gentle,24,0
+2138,Site 3,Morus alba (mulberry),steep,24,0
+2139,Site 2,Eucalyptus camaldulensis,steep,24,1
+2140,Site 2,Eucalyptus camaldulensis,gentle,24,0
+2141,Site 5,Dalbergia sissoo (shisham),gentle,1,1
+2142,Site 5,Dalbergia sissoo (shisham),steep,24,0
+2143,Site 6,Morus alba (mulberry),gentle,24,0
+2144,Site 7,Morus alba (mulberry),steep,24,1
+2145,Site 5,Dalbergia sissoo (shisham),steep,24,0
+2146,Site 8,Eucalyptus camaldulensis,gentle,24,0
+2147,Site 6,Dalbergia sissoo (shisham),steep,24,1
+2148,Site 7,Pinus roxburghii (chir pine),gentle,6,1
+2149,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+2150,Site 4,Eucalyptus camaldulensis,gentle,1,0
+2151,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+2152,Site 3,Morus alba (mulberry),steep,24,0
+2153,Site 1,Pinus roxburghii (chir pine),gentle,24,0
+2154,Site 3,Eucalyptus camaldulensis,gentle,18,1
+2155,Site 5,Morus alba (mulberry),gentle,3,1
+2156,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+2157,Site 8,Morus alba (mulberry),gentle,24,0
+2158,Site 6,Dalbergia sissoo (shisham),gentle,24,0
+2159,Site 5,Pinus roxburghii (chir pine),gentle,24,0
+2160,Site 3,Morus alba (mulberry),gentle,24,0
+2161,Site 5,Eucalyptus camaldulensis,gentle,3,0
+2162,Site 5,Morus alba (mulberry),gentle,24,0
+2163,Site 1,Dalbergia sissoo (shisham),gentle,24,0
+2164,Site 2,Morus alba (mulberry),gentle,24,0
+2165,Site 6,Dalbergia sissoo (shisham),steep,24,0
+2166,Site 1,Eucalyptus camaldulensis,steep,24,0
+2167,Site 6,Morus alba (mulberry),gentle,18,1
+2168,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+2169,Site 2,Dalbergia sissoo (shisham),gentle,24,0
+2170,Site 2,Morus alba (mulberry),gentle,24,0
+2171,Site 8,Dalbergia sissoo (shisham),steep,24,0
+2172,Site 7,Dalbergia sissoo (shisham),gentle,24,0
+2173,Site 8,Dalbergia sissoo (shisham),gentle,12,1
+2174,Site 8,Eucalyptus camaldulensis,steep,24,0
+2175,Site 5,Morus alba (mulberry),gentle,24,0
+2176,Site 2,Eucalyptus camaldulensis,gentle,24,0
+2177,Site 4,Eucalyptus camaldulensis,gentle,24,0
+2178,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+2179,Site 7,Eucalyptus camaldulensis,gentle,24,0
+2180,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+2181,Site 2,Pinus roxburghii (chir pine),steep,24,0
+2182,Site 3,Eucalyptus camaldulensis,gentle,24,0
+2183,Site 8,Dalbergia sissoo (shisham),gentle,24,0
+2184,Site 1,Eucalyptus camaldulensis,steep,24,0
+2185,Site 5,Eucalyptus camaldulensis,steep,24,0
+2186,Site 5,Eucalyptus camaldulensis,steep,18,1
+2187,Site 7,Dalbergia sissoo (shisham),gentle,24,0
+2188,Site 2,Eucalyptus camaldulensis,gentle,24,0
+2189,Site 3,Morus alba (mulberry),gentle,24,0
+2190,Site 5,Eucalyptus camaldulensis,gentle,24,0
+2191,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+2192,Site 2,Dalbergia sissoo (shisham),steep,12,1
+2193,Site 3,Morus alba (mulberry),gentle,24,0
+2194,Site 6,Dalbergia sissoo (shisham),gentle,24,0
+2195,Site 1,Dalbergia sissoo (shisham),gentle,1,0
+2196,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+2197,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+2198,Site 2,Dalbergia sissoo (shisham),steep,24,0
+2199,Site 6,Morus alba (mulberry),steep,18,1
+2200,Site 8,Pinus roxburghii (chir pine),gentle,24,0
+2201,Site 5,Eucalyptus camaldulensis,gentle,24,0
+2202,Site 6,Morus alba (mulberry),steep,3,1
+2203,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+2204,Site 6,Morus alba (mulberry),gentle,24,0
+2205,Site 3,Morus alba (mulberry),gentle,24,0
+2206,Site 6,Eucalyptus camaldulensis,steep,24,0
+2207,Site 2,Morus alba (mulberry),gentle,24,0
+2208,Site 3,Morus alba (mulberry),gentle,24,0
+2209,Site 6,Dalbergia sissoo (shisham),gentle,24,0
+2210,Site 1,Dalbergia sissoo (shisham),gentle,1,1
+2211,Site 7,Eucalyptus camaldulensis,steep,3,0
+2212,Site 6,Dalbergia sissoo (shisham),steep,3,1
+2213,Site 5,Eucalyptus camaldulensis,gentle,24,0
+2214,Site 4,Morus alba (mulberry),gentle,6,1
+2215,Site 2,Pinus roxburghii (chir pine),gentle,24,1
+2216,Site 8,Morus alba (mulberry),gentle,24,0
+2217,Site 6,Dalbergia sissoo (shisham),gentle,24,1
+2218,Site 2,Eucalyptus camaldulensis,gentle,24,0
+2219,Site 4,Eucalyptus camaldulensis,gentle,24,0
+2220,Site 6,Morus alba (mulberry),gentle,3,1
+2221,Site 1,Morus alba (mulberry),gentle,24,0
+2222,Site 6,Dalbergia sissoo (shisham),gentle,24,1
+2223,Site 7,Eucalyptus camaldulensis,gentle,24,0
+2224,Site 6,Dalbergia sissoo (shisham),gentle,24,0
+2225,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+2226,Site 5,Morus alba (mulberry),gentle,24,0
+2227,Site 4,Pinus roxburghii (chir pine),steep,24,0
+2228,Site 3,Pinus roxburghii (chir pine),steep,24,0
+2229,Site 1,Pinus roxburghii (chir pine),gentle,24,0
+2230,Site 8,Dalbergia sissoo (shisham),gentle,24,1
+2231,Site 7,Eucalyptus camaldulensis,gentle,12,1
+2232,Site 3,Eucalyptus camaldulensis,gentle,24,0
+2233,Site 2,Eucalyptus camaldulensis,gentle,24,0
+2234,Site 3,Eucalyptus camaldulensis,gentle,24,0
+2235,Site 1,Eucalyptus camaldulensis,steep,24,0
+2236,Site 7,Morus alba (mulberry),gentle,24,1
+2237,Site 7,Pinus roxburghii (chir pine),steep,12,0
+2238,Site 8,Morus alba (mulberry),gentle,18,1
+2239,Site 8,Pinus roxburghii (chir pine),gentle,24,0
+2240,Site 4,Dalbergia sissoo (shisham),steep,24,0
+2241,Site 5,Eucalyptus camaldulensis,gentle,6,0
+2242,Site 1,Morus alba (mulberry),steep,18,1
+2243,Site 7,Pinus roxburghii (chir pine),steep,24,0
+2244,Site 5,Dalbergia sissoo (shisham),gentle,12,1
+2245,Site 5,Dalbergia sissoo (shisham),steep,18,1
+2246,Site 8,Morus alba (mulberry),gentle,24,0
+2247,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+2248,Site 8,Eucalyptus camaldulensis,steep,24,0
+2249,Site 3,Dalbergia sissoo (shisham),steep,24,0
+2250,Site 3,Eucalyptus camaldulensis,gentle,24,0
+2251,Site 2,Morus alba (mulberry),gentle,18,1
+2252,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+2253,Site 7,Morus alba (mulberry),gentle,24,0
+2254,Site 7,Pinus roxburghii (chir pine),steep,24,0
+2255,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+2256,Site 7,Morus alba (mulberry),gentle,24,0
+2257,Site 5,Morus alba (mulberry),steep,3,1
+2258,Site 7,Eucalyptus camaldulensis,steep,24,0
+2259,Site 3,Pinus roxburghii (chir pine),steep,24,0
+2260,Site 6,Morus alba (mulberry),gentle,18,1
+2261,Site 5,Eucalyptus camaldulensis,steep,24,1
+2262,Site 4,Eucalyptus camaldulensis,gentle,24,0
+2263,Site 7,Pinus roxburghii (chir pine),steep,24,0
+2264,Site 4,Dalbergia sissoo (shisham),gentle,24,0
+2265,Site 8,Eucalyptus camaldulensis,steep,24,1
+2266,Site 6,Pinus roxburghii (chir pine),steep,24,0
+2267,Site 1,Morus alba (mulberry),gentle,6,1
+2268,Site 2,Eucalyptus camaldulensis,gentle,24,0
+2269,Site 3,Eucalyptus camaldulensis,steep,24,0
+2270,Site 5,Eucalyptus camaldulensis,gentle,12,1
+2271,Site 8,Morus alba (mulberry),gentle,24,0
+2272,Site 1,Dalbergia sissoo (shisham),steep,1,1
+2273,Site 4,Eucalyptus camaldulensis,steep,24,0
+2274,Site 3,Eucalyptus camaldulensis,gentle,24,0
+2275,Site 4,Morus alba (mulberry),gentle,24,0
+2276,Site 1,Morus alba (mulberry),steep,24,0
+2277,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+2278,Site 1,Eucalyptus camaldulensis,steep,24,0
+2279,Site 7,Eucalyptus camaldulensis,gentle,18,1
+2280,Site 1,Morus alba (mulberry),gentle,12,1
+2281,Site 6,Eucalyptus camaldulensis,steep,24,0
+2282,Site 1,Morus alba (mulberry),gentle,3,1
+2283,Site 1,Pinus roxburghii (chir pine),steep,24,0
+2284,Site 2,Eucalyptus camaldulensis,gentle,24,0
+2285,Site 8,Eucalyptus camaldulensis,gentle,24,0
+2286,Site 2,Dalbergia sissoo (shisham),steep,12,1
+2287,Site 5,Eucalyptus camaldulensis,gentle,24,0
+2288,Site 7,Morus alba (mulberry),steep,24,0
+2289,Site 3,Pinus roxburghii (chir pine),steep,24,1
+2290,Site 5,Eucalyptus camaldulensis,gentle,24,1
+2291,Site 2,Pinus roxburghii (chir pine),steep,24,0
+2292,Site 1,Pinus roxburghii (chir pine),gentle,24,0
+2293,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+2294,Site 2,Dalbergia sissoo (shisham),steep,12,1
+2295,Site 5,Pinus roxburghii (chir pine),gentle,24,1
+2296,Site 7,Dalbergia sissoo (shisham),steep,12,0
+2297,Site 4,Eucalyptus camaldulensis,steep,24,0
+2298,Site 6,Morus alba (mulberry),gentle,24,0
+2299,Site 5,Dalbergia sissoo (shisham),gentle,24,0
+2300,Site 3,Dalbergia sissoo (shisham),gentle,24,0
+2301,Site 2,Dalbergia sissoo (shisham),gentle,24,0
+2302,Site 1,Eucalyptus camaldulensis,gentle,24,0
+2303,Site 3,Morus alba (mulberry),steep,18,0
+2304,Site 3,Pinus roxburghii (chir pine),steep,24,0
+2305,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+2306,Site 3,Dalbergia sissoo (shisham),steep,18,1
+2307,Site 3,Pinus roxburghii (chir pine),gentle,24,1
+2308,Site 3,Pinus roxburghii (chir pine),gentle,24,0
+2309,Site 4,Pinus roxburghii (chir pine),gentle,24,0
+2310,Site 8,Pinus roxburghii (chir pine),steep,3,1
+2311,Site 2,Dalbergia sissoo (shisham),gentle,24,0
+2312,Site 7,Morus alba (mulberry),gentle,24,0
+2313,Site 5,Pinus roxburghii (chir pine),gentle,12,1
+2314,Site 7,Pinus roxburghii (chir pine),gentle,6,1
+2315,Site 8,Pinus roxburghii (chir pine),gentle,24,0
+2316,Site 5,Eucalyptus camaldulensis,gentle,24,0
+2317,Site 3,Pinus roxburghii (chir pine),steep,24,0
+2318,Site 7,Eucalyptus camaldulensis,gentle,24,0
+2319,Site 3,Eucalyptus camaldulensis,gentle,18,1
+2320,Site 8,Pinus roxburghii (chir pine),steep,24,0
+2321,Site 6,Eucalyptus camaldulensis,gentle,24,0
+2322,Site 5,Eucalyptus camaldulensis,gentle,3,0
+2323,Site 8,Morus alba (mulberry),gentle,24,0
+2324,Site 4,Pinus roxburghii (chir pine),steep,6,1
+2325,Site 1,Pinus roxburghii (chir pine),gentle,6,1
+2326,Site 3,Morus alba (mulberry),steep,18,1
+2327,Site 8,Dalbergia sissoo (shisham),steep,3,1
+2328,Site 5,Pinus roxburghii (chir pine),steep,3,1
+2329,Site 6,Morus alba (mulberry),gentle,18,1
+2330,Site 2,Pinus roxburghii (chir pine),steep,24,0
+2331,Site 1,Pinus roxburghii (chir pine),gentle,12,1
+2332,Site 2,Morus alba (mulberry),gentle,18,1
+2333,Site 5,Morus alba (mulberry),steep,24,0
+2334,Site 7,Eucalyptus camaldulensis,steep,24,0
+2335,Site 3,Eucalyptus camaldulensis,steep,24,0
+2336,Site 2,Pinus roxburghii (chir pine),gentle,24,0
+2337,Site 1,Dalbergia sissoo (shisham),gentle,24,0
+2338,Site 3,Pinus roxburghii (chir pine),steep,24,0
+2339,Site 2,Eucalyptus camaldulensis,steep,24,0
+2340,Site 8,Dalbergia sissoo (shisham),gentle,24,1
+2341,Site 4,Morus alba (mulberry),gentle,24,0
+2342,Site 6,Eucalyptus camaldulensis,gentle,24,0
+2343,Site 1,Dalbergia sissoo (shisham),gentle,24,0
+2344,Site 5,Dalbergia sissoo (shisham),steep,24,0
+2345,Site 3,Morus alba (mulberry),steep,18,1
+2346,Site 1,Eucalyptus camaldulensis,steep,24,0
+2347,Site 4,Morus alba (mulberry),gentle,6,0
+2348,Site 1,Morus alba (mulberry),steep,24,1
+2349,Site 3,Pinus roxburghii (chir pine),gentle,3,0
+2350,Site 1,Dalbergia sissoo (shisham),gentle,24,0
+2351,Site 7,Morus alba (mulberry),gentle,24,0
+2352,Site 2,Eucalyptus camaldulensis,gentle,3,1
+2353,Site 3,Morus alba (mulberry),gentle,12,1
+2354,Site 2,Pinus roxburghii (chir pine),steep,24,0
+2355,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+2356,Site 1,Morus alba (mulberry),gentle,24,0
+2357,Site 5,Eucalyptus camaldulensis,gentle,24,0
+2358,Site 1,Pinus roxburghii (chir pine),gentle,24,0
+2359,Site 6,Morus alba (mulberry),gentle,24,1
+2360,Site 8,Morus alba (mulberry),gentle,24,0
+2361,Site 6,Morus alba (mulberry),gentle,24,0
+2362,Site 8,Eucalyptus camaldulensis,gentle,24,0
+2363,Site 5,Eucalyptus camaldulensis,gentle,24,0
+2364,Site 6,Pinus roxburghii (chir pine),steep,24,0
+2365,Site 7,Pinus roxburghii (chir pine),gentle,24,0
+2366,Site 6,Pinus roxburghii (chir pine),steep,24,1
+2367,Site 4,Dalbergia sissoo (shisham),gentle,1,1
+2368,Site 3,Morus alba (mulberry),gentle,18,1
+2369,Site 7,Pinus roxburghii (chir pine),steep,24,0
+2370,Site 4,Eucalyptus camaldulensis,steep,24,0
+2371,Site 3,Morus alba (mulberry),steep,6,1
+2372,Site 3,Morus alba (mulberry),gentle,12,1
+2373,Site 8,Eucalyptus camaldulensis,steep,24,0
+2374,Site 6,Eucalyptus camaldulensis,gentle,24,0
+2375,Site 2,Dalbergia sissoo (shisham),steep,24,0
+2376,Site 2,Dalbergia sissoo (shisham),gentle,24,0
+2377,Site 5,Morus alba (mulberry),steep,24,0
+2378,Site 3,Eucalyptus camaldulensis,steep,24,0
+2379,Site 3,Eucalyptus camaldulensis,steep,24,1
+2380,Site 2,Pinus roxburghii (chir pine),steep,18,1
+2381,Site 1,Morus alba (mulberry),steep,24,0
+2382,Site 6,Eucalyptus camaldulensis,steep,24,0
+2383,Site 8,Eucalyptus camaldulensis,gentle,24,0
+2384,Site 8,Dalbergia sissoo (shisham),gentle,6,1
+2385,Site 2,Morus alba (mulberry),steep,24,0
+2386,Site 6,Eucalyptus camaldulensis,steep,24,0
+2387,Site 7,Pinus roxburghii (chir pine),gentle,12,1
+2388,Site 2,Pinus roxburghii (chir pine),gentle,24,1
+2389,Site 6,Dalbergia sissoo (shisham),gentle,1,0
+2390,Site 2,Dalbergia sissoo (shisham),steep,24,0
+2391,Site 7,Morus alba (mulberry),gentle,24,0
+2392,Site 5,Eucalyptus camaldulensis,gentle,24,0
+2393,Site 1,Pinus roxburghii (chir pine),steep,24,0
+2394,Site 5,Eucalyptus camaldulensis,steep,24,0
+2395,Site 5,Eucalyptus camaldulensis,gentle,24,0
+2396,Site 4,Dalbergia sissoo (shisham),steep,24,0
+2397,Site 7,Morus alba (mulberry),gentle,24,0
+2398,Site 1,Dalbergia sissoo (shisham),steep,24,0
+2399,Site 6,Morus alba (mulberry),gentle,24,0
+2400,Site 1,Eucalyptus camaldulensis,gentle,24,0
