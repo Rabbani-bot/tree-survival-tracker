@@ -90,7 +90,7 @@ def main() -> dict:
     res["survival_at_24_months_pct"] = surv24
     c, p = logrank(df, "species"); res["logrank_species"] = {"chi2": round(c, 1), "p_value": p}
     c, p = logrank(df, "slope"); res["logrank_slope"] = {"chi2": round(c, 1), "p_value": p}
-    site = df.groupby("site").apply(lambda g: round(100 * kaplan_meier(g["time_months"].to_numpy(), g["died"].to_numpy())["survival"].iloc[-1], 1))
+    site = df.groupby("site")[["time_months", "died"]].apply(lambda g: round(100 * kaplan_meier(g["time_months"].to_numpy(), g["died"].to_numpy())["survival"].iloc[-1], 1))
     res["survival_24m_by_site_pct"] = site.to_dict()
     (ROOT / "outputs" / "summary.json").write_text(json.dumps(res, indent=2))
     return res
